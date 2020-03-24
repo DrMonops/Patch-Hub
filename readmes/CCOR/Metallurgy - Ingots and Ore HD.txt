@@ -5,3 +5,6 @@ This file replaces the Calcinium and Galatite Ingot meshes introduced in Complet
 Both mods are required.
 Credit to fadingsignal for the use of his Quicksilver and Steel Ingot meshes.
 
+Version 2.1 (2020/03/23)
+-Updated meshes to use new texture paths added in Metallurgy v1.2
+
