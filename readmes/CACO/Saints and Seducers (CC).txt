@@ -1,0 +1,15 @@
+==================================================
+CREATION CLUB - SAINTS & SEDUCERS_CACO Patch Notes
+==================================================
+Compatibility patch for Creation Club - Saints & Seducers and Complete Alchemy and Cooking Overhaul, which makes the following changes to Saints & Seducers:
+
+-Rebalances alchemy ingredients for consistency with CACO.
+-Rebalances Mystic Venom for consistency with CACO.
+-Renames Green Butterfly and Purple Butterfly to "Manic Monarch Butterfly" and "Demented Swallowtail", respectively.
+-Enables new mushrooms to work with CACO extra harvesting option.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+
+
+

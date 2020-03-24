@@ -1,0 +1,16 @@
+=======================
+Vokrii_CCOR Patch Notes
+=======================
+This file combines changes made by Vokrii (https://www.nexusmods.com/skyrimspecialedition/mods/26176) and Complete Crafting Overhaul Remastered.
+Both of these mods are required in order to use this file.
+
+Specifically, this file:
+-Adds CCOR Crafting conditions to Vokrii's recipes for armor padding and plates, as well as breakdown recipes for said items.
+-Allows Vokrii's High Yield Mining perk to work with CCOR.
+-Incorporates the changes to the Matching Set perks from Umgak's Vokrii-WACCF patch (https://www.nexusmods.com/skyrimspecialedition/mods/26278).
+NOTE: Umgak's Vokrii-WACCF patch is not required if you are using this patch.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+Credit to Umgak for the changes to the Matching Set perks.
+

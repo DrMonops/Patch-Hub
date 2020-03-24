@@ -1,0 +1,16 @@
+====================================
+JS CIRCLET REPLACER_CCOR Patch Notes
+====================================
+Compatibility patch for JS Circlet Replacer (https://www.nexusmods.com/skyrimspecialedition/mods/8686) and Complete Crafting Overhaul Remastered which reverts the circlet model paths to vanilla.
+Consequently, this also fixes the issue JS Circlet Replacer has with USSEP changing the circlet model paths for female elves.
+
+Note that the new circlets added by CCOR will continue to use the vanilla style models, so you may wish to disable the "More Jewelry" option in CCOR in that inconsistency bothers you.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 1.1 (2020/03/01) - Fixed CTD before main menu.
+
+
+
+

@@ -1,0 +1,27 @@
+CACO - Rare Curios - Patch Notes
+
+Original Author: Rusey
+
+Applies CACO values and effects to Rare Curios' ingredients
+All Rare Curios ingredient images / meshes utilised
+Retains Rare Curios new effects; light and absorb magic
+Adjusts LLists to distribute Rare Curios ingredients to alchemists (distribution is uncommon / rare)
+Retains Rare Curios availability with Khajiit Caravans
+Adds Rare Curios to CACO Formlists so they can be added to the player via the CACO MCM and all effects discovered
+Patch is a .esp / ESL flagged file and won't take up a spot in your load order
+
+Recommended load order
+ccbgssse037-curios.esl
+Complete Alchemy & Cooking Overhaul.esp
+CACO Rare Curios Patch.esp
+
+Changelog:
+V1.0
+Initial release
+
+V1.01
+Added Delev tag for Wrye Bash LLists
+
+Credits
+Rare Curios https://en.uesp.net/wiki/Skyrim:Rare_Curios
+Kryptopyr for CACO https://www.nexusmods.com/skyrimspecialedition/mods/19924

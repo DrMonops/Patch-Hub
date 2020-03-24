@@ -1,0 +1,21 @@
+======================
+CACO_USSEP_Patch Notes
+======================
+This file combines changes from Complete Alchemy & Crafting Overhaul and the Unofficial Skyrim Special Edition Patch.  
+Both of these mods are required in order to use this file.
+
+Changes:
+--------
+- changed Bone Hawk Ring recipe to use CACO's Bone Hawk Claw.
+- hid the Cooked Boar Meat recipe added by USSEP (UDBPDLC2RecipeFoodBoarCooked) to avoid duplicate recipes with CACO installed (this is already being handled by CACO via script, so this was simply added as a redundancy).
+- changes the effects/properties of the USKP Meat Pie to conform with CACO foods.  
+- adds the Survival_RestoreHunger effect to the Meat Pie so it will work with Survival Mode (however, Survival Mode is NOT required in order to use this patch).
+- adds the USKP Meat Pie to CACO's InnCookedMeal list and removes it from other leveled lists (the CACO list is used in place of individual foods in these lists)
+
+Changelog:
+----------
+1.0 Initial release
+1.1 Removed CACO added Survival keyword on Meat Pie due to CTD reports.
+1.2 Removed CACO added Survival keyword on Meat Pie due to CTD reports (this time for real).
+1.3 Forwarded some changes to TREE records from USSEP v4.2.0.
+1.4 Updated the Bone Hawk Ring recipe for consistency with Complete Crafting Overhaul Remastered.

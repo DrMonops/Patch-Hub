@@ -1,0 +1,12 @@
+======================
+SkyfallEstate_CACO_Patch Notes
+======================
+This file carries over changes from Complete Alchemy & Crafting Overhaul so they will work with Skyfall Estate.  
+Both of these mods are required in order to use this file.
+
+Changes:
+--------
+- Copied the changes that CACO makes to the BYOHPlanterSoil to the new records added by Skyfall Estate.  This should fix the issue with planters not working.
+- Added all the CACO alchemy ingredients to the SkyfallAlchemyAll form list
+- Added the onion and turnip to the SkyfallCookingSuppliesAll form list. 
+     **NOTE: I suspect that the Cooking Supplies list probably needs to have many other items from CACO added to it, such as the new raw meats, vinegar, oil, and the various portion versions for each. I didn't do this since I wasn't 100% certain how those lists were used by the mod.  If someone could help provide some clarification about what types of changes are needed for those lists (if any), that would be great.

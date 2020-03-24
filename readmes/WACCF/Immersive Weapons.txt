@@ -1,0 +1,16 @@
+=======================================
+Immersive Weapons - WACCF Patch Notes
+=======================================
+This file patches Immersive Weapons by Hothtrooper44, Ironman5000, and Eckss (https://www.nexusmods.com/skyrimspecialedition/mods/16788) for improved consistency with changes made by Weapons Armor Clothing & Clutter Fixes (WACCF).  
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Load Immersive Weapons after Weapons Armor Clothing & Clutter Fixes.
+
+CHANGES
+- Adjusts arrow stats to bring them in-line with WACCF balance and keyword changes, including gravity and speed settings.
+- Carries over WACCF's addition of the LEATHER category to the vanilla crafting menu.
+- Adjusts leveled lists to match WACCF's weapon progression.
+- Adjusts some of the weapon stats to bring them in-line with WACCF changes and fixed some minor inconsistencies.

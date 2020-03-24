@@ -1,0 +1,22 @@
+=================================
+Unique Uniques - CCOR Patch Notes
+=================================
+This file patches Unique Uniques by InsanitySorrow (https://www.nexusmods.com/skyrimspecialedition/mods/3334) for improved consistency with changes made by Complete Crafting Overhaul Remastered (CCOR) and Weapons Armor Clothing & Clutter Fixes (WACCF).
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+ 
+INSTALLATION
+Both mods are required in order to use this file.
+Load Unique Uniques after Complete Crafting Overhaul Remastered.
+
+You do NOT need to use Unqiue Uniques_WACCF_Patch.esp when using this CCOR patch.
+
+
+CHANGES
+- Includes all changes from the Unqiue Uniques_WACCF_Patch:
+	- Carries over WACCF's fixes and changes to item stats.
+- Adds craftable replicas for most of the items covered by Unique Uniques.  These replicas require the original item to craft.  You also need to enable the Artifact Replicas and Unenchanted Variations options in CCOR's MCM in order for all of these recipes to appear.
+
+
+
+

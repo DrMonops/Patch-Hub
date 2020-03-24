@@ -1,0 +1,14 @@
+==========================
+Wintersun_TCIY Patch Notes
+==========================
+This file combines changes to Quest DA02 (Boethiah's Calling) from The Choice Is Yours and Wintersun - Faiths of Skyrim.
+Both of these mods are required in order to use this file.
+
+Version 1.1 (09/12/2019)
+-Added conditions to prevent followers of Jyggalag and Trinimac from losing favour if they complete Boethiah's Calling by refusing her offer, and to prevent players who complete the quest in this way from later becoming followers of Boethiah.
+
+Version 1.02 (23/09/2019)
+-Carried forward TCIY changes to script qf_da13intro_000bedec
+
+Version 1.01 (11/03/2019)
+-Patched some additional conflicting scripts (qf_da03_0001bfc4, qf_da05_0002a49a, & qf_da07_000240b8)

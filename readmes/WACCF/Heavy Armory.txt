@@ -1,0 +1,15 @@
+=================================
+Heavy Armory - WACCF Patch Notes
+=================================
+This file modifies Heavy Armory - New Weapons by PrivateEye (https://www.nexusmods.com/skyrimspecialedition/mods/6308) to include fixes and changes from Weapons Armor Clothing & Clutter Fixes (WACCF).  It also resolves minor conflicts between Heavy Armory and the Unofficial Skyrim Special Edition Patch.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Load Heavy Armory after Weapons Armor Clothing & Clutter Fixes.
+
+CHANGES
+- Removed PerkInvestorWhiterunGeneralList from MerchantCaravan chests (this carries forward a change from USSEP)
+- Adjusted weapon stats to bring them in-line with WACCF balancing and fixed some minor inconsistencies.
+- Adjusted leveled lists to match WACCF's weapon progression	

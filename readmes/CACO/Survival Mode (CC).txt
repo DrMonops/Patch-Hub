@@ -1,0 +1,40 @@
+==============================
+CACO_Survival Mode_Patch Notes
+==============================
+This file combines changes from Complete Alchemy & Crafting Overhaul and Skyrim Survival Mode (Creation Club).
+It also resolves conflicts between these mods and the Unofficial Skyrim Special Edition Patch.
+All three of these mods are required in order to use this patch.
+You do not need the CACO_USSEP_Patch if using CACO_Survival Mode_Patch.
+
+Changes:
+--------
+- Includes changes from the CACO_USSEP_Patch:
+	- changed Bone Hawk Ring recipe to use CACO's Bone Hawk Claw.
+	- hid the Cooked Boar Meat recipe added by USSEP (UDBPDLC2RecipeFoodBoarCooked) to avoid duplicate recipes with CACO installed (this is already being handled by CACO via script, so this was simply added as a redundancy).
+	- changes the effects/properties of the USKP Meat Pie to conform with CACO foods.  
+	- adds the Survival_RestoreHunger effect to the Meat Pie so it will work with Survival Mode (however, Survival Mode is NOT required in order to use this patch).
+	- adds the USKP Meat Pie to CACO's InnCookedMeal list and removes it from other leveled lists (the CACO list is used in place of individual foods in these lists)
+
+- Resolves additional conflicts between USSEP and Survival Mode.  This does not include the Armor records, however, so you will need to use another mod (such as Weapons Armor Clothing & Clutter Fixes or the Unofficial Skyrim Survival Patch by garthand) to resolve those conflicts.
+
+- This patch assumes that the player will have Survival mode enabled, and therefore the description of perks like "Extra Pockets" has been changed so the text assumes Survival Mode is enabled.
+
+- The Cooked Boar Meat recipe (Survival_RecipeFoodBoarCooked) was hidden so there wouldn't be duplicate recipes appearing in the cooking menu with CACO installed.
+	- This change also resolves the duplicate recipes when using Survival Mode and USSEP together since both files add this recipe.
+
+- Added the Survival_RestoreHunger[...] effects to all foods and drinks; I also tweaked which effect was used (verysmall/small/medium/large) to align better with CACO effects.
+- Modified the "hot" soups so they had stats/properties that match the base CACO versions, plus the added survival effects.
+- Modified the recipes for "hot" soups:
+	- duplicated the recipe from CACO, plus fire salts
+	- copied CACO recipe conditions and added the Survival_ModeEnabled condition
+	- these recipes now produce 4 bowls of soup
+
+- Added all raw meats to the Survival_FoodRawMeat form list.
+- Changed the wording for the Hunger and Cold messages and effect descriptions, so they read a bit better.
+- Changed the name for the CACO Basic Needs effects so if any players choose to have CACO's Basic Needs options active with Survival Mode, it will be easier to tell the two effects apart. 
+- Fixed a few other minor bugs in the Survival Mode records.
+
+- Survival_FoodFortifyWarmth now automatically scales with timescale changes like other duration-based food effects in CACO.  The 'hot' soups and stews which use this effect will fortify warmth for 2 hours of in-game time. 
+
+Version 1.1 (12/10/2019)
+-Updated the Bone Hawk Ring recipe added by USSEP for consistency with Complete Crafting Overhaul Remastered.

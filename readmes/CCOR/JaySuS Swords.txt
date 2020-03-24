@@ -1,0 +1,21 @@
+================================
+JaySuS Swords - CCOR Patch Notes
+================================
+This file modifies JaySuS Swords SE (https://www.nexusmods.com/skyrimspecialedition/mods/29415) for improved consistency with changes made by Complete Crafting Overhaul Remastered (CCOR) and Weapons Armor Clothing & Clutter Fixes (WACCF).
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+ 
+INSTALLATION
+Both mods are required in order to use this file.
+Download and install "JaySuS Swords SE - Craft Only" from its mod page (https://www.nexusmods.com/skyrimspecialedition/mods/29415).
+  *Note: This patch handles item distribution, so you'll still find the weapons throughout the world.
+Install this patch after Complete Crafting Overhaul Remastered.
+ 
+CHANGES
+- Adds crafting menu filters and category conditions from CCOR SE.
+- Incorporates Calcinium and Galatite in a handful of recipes.
+- Weapon stats, crafting requirements, and recipes have been rebalanced against the values used in WACCF & CCOR.
+- Changed some weapon names for additional consistency and better inventory and menu sorting.
+- Distribution of these weapons has also been reworked to maintain balance with other changes from WACCF.
+- Added craftable replica versions of the unique weapons, which require the original weapon to craft.  You also need to enable the Artifact Replicas option in CCOR's MCM in order for these recipes to appear.
+

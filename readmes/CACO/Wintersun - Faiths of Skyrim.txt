@@ -1,0 +1,9 @@
+==========================
+Wintersun_CACO Patch Notes
+==========================
+This file updates Wintersun - Faiths of Skyrim to use Complete Alchemy and Cooking Overhaul's Raw Homonid Flesh instead of the vanilla Human Flesh.
+Both of these mods are required in order to use this file.
+
+Version 1.01 (23/09/2019)
+-Updated for Wintersin 3.0.1
+

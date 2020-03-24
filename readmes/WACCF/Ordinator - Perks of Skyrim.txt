@@ -1,0 +1,13 @@
+===========================
+Ordinator_WACCF Patch Notes
+===========================
+Compatibility patch for Complete Crafting Overhaul Remastered and Ordinator (https://www.nexusmods.com/skyrimspecialedition/mods/1137).
+Allows Ordinator's changes to the Light and Heavy Matching Set perks to work properly with WACCF's keywords.
+
+Not required if Ordinator_CCOR patch is used. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+Version 1.11 (12/10/2019)
+-Removed some extraneous records that would show up as ITMs.
+
+Version 1.1 (12/10/2019)
+-Adjusted Trick Arrow damage for consistency with WACCF and added Material keywords.

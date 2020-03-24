@@ -1,0 +1,16 @@
+===================================
+Katana Crafting - WACCF Patch Notes
+===================================
+This file modifies Katana Crafting by lautasantenni (https://www.nexusmods.com/skyrimspecialedition/mods/5306) to include fixes and changes from Weapons Armor Clothing & Clutter Fixes (WACCF).
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both mods are required in order to use this file.
+Load Katana Crafting after Weapons Armor Clothing & Clutter Fixes.
+
+CHANGES
+- Changes Dwarven/Elven/Orcish stats to match WACCF weapon progression
+- Adjusts weapon stats to bring them in-line with WACCF balancing and fixes some minor inconsistencies.
+
+

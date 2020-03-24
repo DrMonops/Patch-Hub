@@ -1,0 +1,26 @@
+CACO - Wounds - Patch Notes
+
+Author: Teabag86
+
+Applies CACO values and effects to ingredients edited by Wounds
+Updates CACO recipe notes to reflect Wounds new potion effects
+Replaces Wounds' Medicinal Alcohol with CACO's Distilled Alcohol
+Replaces Wounds' bandages with CACO bandages
+Allows use of CACO's Health poultices for wound packing
+Adds new Needle and Thread recipes using CACO's spider silk and daedra silk ingredients
+Adds Wounds' Needle and Thread to CACO Formlists so they can be added to the player via the CACO MCM
+Merges LLists accordingly
+Patch is a .esp / ESL flagged file and won't take up a spot in your load order
+
+Recommended load order (LOOT)
+Wounds.esp
+Complete Alchemy & Cooking Overhaul.esp
+CACO_Wounds_Patch.esp
+
+Changelog:
+V1.0
+Initial release
+
+Credits
+IronDusk33 for Wounds https://www.nexusmods.com/skyrimspecialedition/mods/17581
+Kryptopyr for CACO https://www.nexusmods.com/skyrimspecialedition/mods/19924

@@ -1,0 +1,27 @@
+CACO Predator Vision Patch Notes
+
+Original Author: Teabag86
+
+Very simple patch.
+
+Swaps CACO Night Eye Effect to PV's Night Eye Effect
+Swaps 7 CACO Ingredients from Night Eye Effect to "Predator Vision" Effect
+Amends 2 CACO recipe notes to reflect new "Predator Vision" Effect
+Patches CACO Leveled List / Death Item List to include PV Wolf Eye
+Patches 2 ingredients (Wolf Eye and Sabre Cat Eye) from PV to CACO values
+Reverts PV changes to Glow Dust and Vampire Dust back to CACO effects and values
+
+Patch is a .esp/ESL Flagged file and will not take up a spot in your load order
+
+Recommended load order
+Complete Alchemy & Cooking Overhaul.esp
+Predator Vision.esp
+Predator Vision_CACO_Patch.esp
+
+Changelog:
+V1.0
+Initial release
+
+Credits
+Gopher for Predator Vision https://www.nexusmods.com/skyrimspecialedition/mods/2777
+Kryptopyr for CACO https://www.nexusmods.com/skyrimspecialedition/mods/19924

@@ -1,0 +1,78 @@
+=============================
+Bandolier - CCOR Patch Notes
+=============================
+This file modifies Bandolier-Bags and Pouches by Dragten (https://www.nexusmods.com/skyrimspecialedition/mods/2417) for improved consistency with Complete Crafting Overhaul Remastered.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Install the Bandoliers, Bags and Pouches. 
+Load Dr_Bandolier.esp after Complete Crafting Overhaul Remastered.
+*NOTE: Unlike previous versions of CCOR, you should NOT delete or disable the esp file.
+
+
+CHANGES
+- Distributes the items in leveled lists and has them appear on NPCs.
+- Adds recipes for crafting Imperial Bandoliers and Pouches, conditioned on joining the Imperial Legion.
+- Recipes will sort into WACCF's crafting categories.
+- Adds crafting menu filters and category conditions from CCOR SE.
+- Recipes have been simplified to make them more consistent with other recipe formulas used by CCOR and to allow for reduced prices.
+- Enchantments have been added to the book & vial holders.
+- Item value has been reduced. This allows for better balance when finding them on NPCs, so it is not as easy to make money by scavenging them.
+- Items are no longer weightless. This puts a small dent into the degree of carry weight benefit they provide, but it significantly improves the value/weight ratio balance for the items looted from NPCs.
+- Items can no longer be disenchanted. The enchantment is intended to be a reflection of their inherent carrying capacity, not a magical property.
+
+-Bandoliers with Shoulderpads are now called "Bandolier with Pauldron" and have armor rating and can be tempered.
+   -These recipes have been moved to the forge.
+   -They are considered light armor, but do not have the light armor keyword, so they should not impact any perks that rely on wearing, or not wearing, light armor.
+
+- Conditions have been added to the recipes to help avoid crafting menu bloat:
+   - Most Dark items require that you have Dark Leather in your inventory before they will show.
+   - Dark Brotherhood items are conditioned off of quest stages and don't require finding a book.
+
+- To further reduce menu clutter, approximately 60 recipes were removed from the crafting menu. Instead of having 2-6 recipes (one for each wearable position), there is only a single crafting recipe per pouch. 
+   -When the player first equips the item, they can then choose how they want to wear it.
+   -Once selected, the pouch will remember the selected equipment slot.
+   -Dropping a pouch on the ground will reset it back to the generic version and allow you to change its position.
+
+
+CUSTOMIZATION OPTIONS
+Once in game, you can use the following console commands to adjust the percent chance that a bag or pouch will spawn on a certain type of NPC.  Note, that this number represents the chance that NONE will spawn, so if you want there to be a 25% chance that a pouch will appear on an NPC, then use "75" for the command value.  Enter one of the following console commands, replacing the number with a value from 0 to 100:  
+	set DIST_CIABandolierBanditBossChance to 85
+	set DIST_CIABandolierBanditChance to 95
+	set DIST_CIABandolierImperialChance to 95
+	set DIST_CIABandolierDBChance to 75
+	set DIST_CIAPouchCitizenChance to 90
+	set DIST_CIAPouchBanditChance to 90
+	set DIST_CIAPouchDBChance to 75			(for random Dark Brotherhood assassins)
+	set DIST_CIAPouchHunterChance to 90
+	set DIST_CIAPouchImperialChance to 90
+	set DIST_CIAPouchMageChance to 90
+	set DIST_CIAPouchNecroChance to 90		(for warlocks and necromancers)
+	set DIST_CIAPouchVampireChance to 90
+
+
+BANDOLIER, CLOAKS OF SKYRIM, AND WINTER IS COMING
+The CCOR patches for Bandolier, Cloaks of Skyrim, and Winter is Coming use shared leveled lists to distribute the items to vendors and other NPCs.
+If you've previously used these mods with older versions of CCOR, you'll find the distribution should be nearly identical.
+If you also have Wet and Cold installed, distribution of some items will vary depending on the surrounding temperature.
+The suggested load order for these mods and patches is:
+   -Unofficial Skyrim Special Edition Patch.esp
+   -Weapons Armor Clothing & Clutter Fixes.esp
+   -Complete Crafting Overhaul_Remastered.esp
+   -Dr_Bandolier.esp
+   -Dr_Bandolier_CCOR_Patch.esp
+   -Cloaks.esp
+   -Cloaks - Dawnguard.esp
+   -Cloaks_CCOR_Patch.esp
+   -1nivWICCloaks.esp
+   -1nivWICCloaks_COS_CCOR_Patch.esp
+
+
+CHANGE LOG
+Version 1.1 (2020/02/25) - Enabled crafting and distribution of the flasks and notebooks from Bandolier - Dawnguard (https://www.nexusmods.com/skyrim/mods/22119). 
+
+
+CREDITS
+Dragten for the meshes and textures from Bandolier - Dawnguard

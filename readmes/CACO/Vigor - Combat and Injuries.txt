@@ -1,0 +1,14 @@
+This patch adds compatibility and consistency with Complete Alchemy and Cooking Overhaul and Campfire - Complete Camping System to Alex9ndre's Vigor - Combat and Injuries.
+
+CACO's and Vigor's bandage systems have been merged into one system. Vigor's trauma curative is now a poultice that can be applied to CACO's Clean Bandages. If you have the Physician perk, this poultice can be crafted with a retort from Wheat, a Standard or better health potion, and either Red Mountain Flower or Aloe Vera. The recipe produces 1, 2, or 4 poultices at a time depending on the tier of the potion used. As Aloe Vera is much more potent than Red Mountain Flower, less alchemy ingredients are required for the Aloe Vera versions of the recipes. Bandages use a new version of CACO's Apply Bandage script that incorporates Vigor's torso and foot bandages. All poultices can be added to torso and foot bandages. You may need to remove and then put back all bandages in your inventory when updating for the new script to run.
+
+If you use Campfire by Chesko, install the Campfire version of the patch. This incorporates the edits made by Alex9ndre's own Vigor Campfire patch in a way that does not conflict with this patch. You do not need to use Vigor - Campfire.esp and should not include it in your Bashed or Smash Patch if you use the Campfire version of this patch.
+
+Credits
+
+Sharlikran, ElminsterAU and others for TES5Edit
+matortheeternal for Automation Tools for TES5Edit
+kryptopyr for Complete Alchemy and Cooking Overhaul
+Alex9ndre for Vigor - Combat and Injuries
+Chesko for Campfire - Complete Camping System
+SirJesto for SE conversion

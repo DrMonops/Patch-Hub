@@ -1,0 +1,9 @@
+==========================================
+Konahrik's Accoutrements_WACCF Patch Notes
+==========================================
+Patch by Argonil
+
+Adjusts material keywords and rebalances new Dragonpriest equipment for consistency with WACCF.
+
+Version 1.1 - Updated to form 44 (bad Monops!)
+

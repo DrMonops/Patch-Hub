@@ -1,0 +1,15 @@
+====================================
+Faction Crossbows - CCOR Patch Notes
+====================================
+This file patches Faction Crossbows by DeserterX (https://www.nexusmods.com/skyrimspecialedition/mods/4047?) for improved consistency with changes made by Complete Crafting Overhaul Remastered.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Load Faction Crossbows after Complete Crafting Overhaul Remastered.
+
+CHANGES
+- Updated Bolts' gravity and speed for consistency with WACCF changes.  Also carried forward fix to bolts from USSEP.
+- Added crafting menu filters and category conditions from CCOR SE.
+- Added conditions to reveal recipes based on either the possession of the crafting manual or the completion of initial faction quests.

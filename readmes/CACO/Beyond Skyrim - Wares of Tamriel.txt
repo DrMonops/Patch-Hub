@@ -1,0 +1,9 @@
+=================================================
+Beyond Skyrim - Wares of Tamriel_CACO Patch Notes
+=================================================
+Compatibility patch for Beyond Skyrim - Wares of Tamriel (https://www.nexusmods.com/skyrimspecialedition/mods/31519) and Complete Alchemy and Cooking Overhaul.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+
+
+

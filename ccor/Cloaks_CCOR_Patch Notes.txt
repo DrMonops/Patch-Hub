@@ -1,0 +1,57 @@
+===================================
+Cloaks of Skyrim - CCOR Patch Notes
+===================================
+This file modifies Cloaks of Skyrim by Nikinoodles and Nazenn (https://www.nexusmods.com/skyrimspecialedition/mods/6369) for improved consistency with Complete Crafting Overhaul Remastered.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both mods are required in order to use this file.
+Install the original mod, enabling both the Cloaks.esp and Cloaks - Dawnguard.esp files.
+  *NOTE: Unlike previous versions of CCOR, you should NOT delete or disable these esp files.  However, the "Cloaks - USSEP Patch.esp" file that comes bundled with Cloaks of Skyrim is not required; it can be deleted or disabled.
+Load Cloaks of Skyrim after Complete Crafting Overhaul Remastered.
+
+BANDOLIER, CLOAKS OF SKYRIM, AND WINTER IS COMING
+The CCOR patches for Bandolier, Cloaks of Skyrim, and Winter is Coming use shared leveled lists to distribute the items to vendors and other NPCs.
+If you've previously used these mods with older versions of CCOR, you'll find the distribution should be nearly identical.
+If you also have Wet and Cold installed, distribution of some items will vary depending on the surrounding temperature.
+The suggested load order for these mods and patches is:
+   -Unofficial Skyrim Special Edition Patch.esp
+   -Weapons Armor Clothing & Clutter Fixes.esp
+   -Complete Crafting Overhaul_Remastered.esp
+   -Dr_Bandolier.esp
+   -Dr_Bandolier_CCOR_Patch.esp
+   -Cloaks.esp
+   -Cloaks - Dawnguard.esp
+   -Cloaks_CCOR_Patch.esp
+   -1nivWICCloaks.esp
+   -1nivWICCloaks_COS_CCOR_Patch.esp
+ 
+CHANGES
+- Added crafting menu filters and category conditions from CCOR SE.
+- Added cloaks to vendor lists so they will appear in merchant inventories.
+- Carried forward conflicting records from USSEP (included briarheart "armor" edit).
+- Added "MagicDisallowEnchanting" keyword to Graybeard's cloak.
+- Removed the ClothingNecklace and ArmorMaterialLeather/Hide keywords from cloaks and replaced with WAF_ClothingCloak.
+- Restricted the types of enchantments that the player can place on cloaks to the "resist" enchantments.
+- Weight, gold values, keywords, and enchantments were adjusted to be more consistent with other changes made by CCOR.
+- Adjusted crafting recipes for better consistency with CCOR: replaced leather with FurPlate, adjusted linen quantities, and added inventory conditions.
+- Removed sewing book & spinning wheel; all recipes now use the Tanning Rack.
+- The copies of the unique Dragon Priest cloaks which were sitting on or near the altars have been removed.  The unique cloaks can still be looted from named Dragon Priests.
+
+
+CUSTOMIZATION OPTIONS
+Once in game, you can use the following console commands to adjust the percent chance that a cloak will spawn on a certain type of NPC.  Note, that this number represents the chance that NONE will spawn, so if you want there to be a 25% chance that a cloak will appear, then use "75" for the command value.  Enter one of the following console commands, replacing the number with a value from 0 to 100:  
+	set DIST_CIACloaksBanditBossChance to 55
+	set DIST_CIACloaksBanditChance to 85
+	set DIST_CIACloaksCommonChance to 65		(primary affects Orc strongholds)
+	set DIST_CIACloaksCompanionsChance to 65	(affects members of the Companions faction)
+	set DIST_CIACloaksForswornChance to 85
+	set DIST_CIACloaksGreybeardsChance to 65
+	set DIST_CIACloaksGuardChance to 35		(affects town guards and Dawnguard members)
+	set DIST_CIACloaksHunterChance to 75
+	set DIST_CIACloaksImperialChance to 50
+	set DIST_CIACloaksNecroChance to 65		(affects warlocks and necromancers)
+	set DIST_CIACloaksThalmorBossChance to 25
+	set DIST_CIACloaksThalmorChance to 90
+	set DIST_CIACloaksVampireChance to 65

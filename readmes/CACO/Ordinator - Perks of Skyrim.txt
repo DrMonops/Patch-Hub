@@ -1,0 +1,51 @@
+CACO Ordinatored Patch Notes
+
+Original Author: Servant of Sin
+Modified for SE by: Teabag86, Kryptopyr and Rusey
+
+Patch uses the Ordinator tree and ties the CACO unlocks to the Ordinator Perks.
+This way you get Ordinator's balance with CACO's new recipes and changes.
+There are a few minor tweaks as detailed below to maintain balance. 
+
+Fixes:
+Deep Freeze effects carried over from Ordinator.
+Catalyst perk added to respec script from Ordinator.
+Feed the Monster perk from the Conjuration tree of Ordinator now uses Raw Hominid Meat.
+
+Merged Tree Changes:
+Physician - Create poultices, tonics, and healing salves. Health regenerates 15% faster. You may choose a type of beneficial potion: Health, Magicka or Stamina. Potions you mix that restore or fortify the chosen attribute are 50% stronger.
+Poisoner - Poisons you mix are 0.5% more powerful per level of Alchemy.
+World Serpent (Catalyst) - Create explosive concoctions and specially formulated toxins. After a shout retaliate with a powerful poisonous strike that deals 50 points of poison damage over 10 seconds.
+Pure Mixture - All negative effects are removed from created potions, and all positive effects are removed from created poisons. Beneficial potions you create now weigh less.
+Witch Master (Anatomist) - Extract and preserve the potent properties available in blood and organs allowing you to tap the hidden essence. When you use a beneficial potion or ingredient, 50% chance to receive a powerful side effect, randomly chosen from a range of 40 side effects.
+Chymical Wedding (Chymist) - Refine ingredients, create purified extracts and essences, and distill potions to concentrate their effects. Witchmaster side effects have 50% chance to cause side effects themselves.
+Snakeblood - Consuming ingredients allows you to gradually become more proficient at detecting their subtle properties. Your resistance to poisons and toxicity increases with the number of ingredients you consume.
+Naturalist - Increased chance of harvesting additional ingredients from flora.
+Lab Skeever (Field Alchemist)- For 20 seconds after using any alchemy lab, beneficial potions you drink last 15 times longer. Create 50% more effective potions in the field using just a mortar and pestle.
+Bottomless Cup - All poisons you create now weigh less. Poisons applied to weapons last longer, up to 3x as long at 100 Skill.
+Still ASIS Friendly
+
+Recommended load order
+Ordinator - Perks of Skyrim.esp
+Complete Alchemy & Cooking Overhaul.esp
+CACO_Ordinator_Patch.esp
+
+Changelog:
+V1.03
+Changed CACO load screens to reflect Ordinator perk changes
+Added CACO Bonemeal grinding recipes to Ordinator bones unlocked with the Conjuration perk Bonecollector
+
+V1.02
+Converted Patch to ESL flagged ESP to save a space in the load order.
+Added changelog
+
+V1.01
+Removed Wisman Flora Fixes dependency
+
+V1.0
+Initial release
+
+Credits
+Servant of Sin of the original patch https://www.nexusmods.com/skyrim/mods/70272
+EnaiSiaion for Ordinator https://www.nexusmods.com/skyrimspecialedition/mods/1137
+Kryptopyr for CACO https://www.nexusmods.com/skyrimspecialedition/mods/19924

@@ -1,0 +1,73 @@
+Complete Alchemy and Cooking Overhaul Compatibility Patch for SPERG
+
+Author: LittleRaskols
+Updated to SE by Teabag86
+
+Classic version https://www.nexusmods.com/skyrim/mods/70355
+
+Comments below adapted from LittleRaskols notes
+
+What it does:
+Adapts the SPERG auto-perk and root perk features into CACO and integrates SPERG effects into CACO perks.
+For the most part, the Alchemy tree will be the same as in base CACO.
+Some of the skill requirements have changed because SPERG's auto-perk system is hard coded to use multiples of 25 and I am not going to try modifying/overriding any scripts.
+In general, the approach is CACO content with SPERG utility: the functions of nearly all the CACO perks are the same, all that changes is how you obtain them.
+I decided to make the curling middle branch of the tree the auto-perks because these struck me as "utility" perks that enhance your overall ability to alchemize (by expanding ingredient options).
+The rest of the tree is structured as two different specializations and the auto-perks would probably be useful to both.
+The CACO perk tree and perks have been changed to include the more interesting SPERG perk effects.
+
+Adaptation Perk Changes:
+	-Alchemist: Requires no skill level, automatically added. Increases the strength of potions and poisons by a factor that scales with player's Alchemy skill. Which is to say, it does the exact same thing as SPERG's Alchemist perk. Note that it does not have multiple levels.
+	-Naturalist: Requires and automatically added at 25 skill. Does the same thing.
+	-Field Alchemist: Requires and automatically added at 50 skill. Does the same thing.
+	-Anatomist: Requires and automatically added at 75 skill. Does the same thing. Note that there is a special condition for this perk that seems to allow it to be bought by vampires at any skill level (I think?). No idea what will happen if a vampire character buys this perk before skill level 75. Let me know if it doesn't blow the game up!
+	-The Great Work: Requires and automatically added at 100 skill. This is simply SPERG's Knowledge Seeker perk, renamed to reflect the term used by alchemists in our own history for the process of creating a Philosopher's Stone. It does the same thing and seemed cool and thematic enough to add as a 100-skill auto perk.
+
+SPERG Perk Integrations:
+	-Fortifier: The benefits to fur and leather clothing/armor are rolled into Naturalist. The benefits to Fortify potions have been modified (to apply to potions you create) and added to a new perk that is the second level of Physician, available at skill level 35.
+	-Physician L2:  This new perk available at skill level 35 as the second level of Physician makes all potions benefiting health, magicka, and stamina (i.e., restoring, modifying regeneration, and fortifying) which you make 20% stronger.
+	-Troll Blood: Added as a second level to the Snakeblood perk, available at skill level 45. Health regen effect has been modified to not stack with the same from Physician.
+	-Envenom: Added as a second level to the Concentrated Poisons perk, available at skill level 45. It has been toned down somewhat (since you already get it at a higher level and it gets doubled). Poison resistance effect deprecated (already added by Snakeblood).
+	-Side Effects: Rolled into Benefactor.
+	-Wortcraft: Rolled into Poisoner.
+	-Mage Oil: Added as a secondary benefit to a new second level of Purity, available at skill level 75.
+	-Purity L2: This new perk available at skill level 75 allows you to create two potions or poisons instead of one, and enchantments you cast are 15% more effective on regular jewelry and 25% more effective on high quality jewelry.
+	-Surgeon: Rolled into Anatomist. I have made a small change to prevent SPERG's Surgeon effects from giving human organs, since CACO has its own system for this grisly harvest!
+
+Artisan Scroll Effect:
+The "Patron" perk allows certain vendors to sell a scroll, the "Scroll of Artisan's Blessing," which grants (among other things) the auto-alchemy perks for a limited duration.
+However, since I have changed the auto-alchemy perks, these needed to be changed as well. I don't think that just giving the corresponding autoperk was in the spirit of the scroll's abilities in all cases.
+So I have made up two new perks to serve as the Expert and Master effects.
+	-Instead of granting "Anatomist," the expert effect grants both "Poisoner" and "Benefactor" for its duration. I didn't really think that the effects of this scroll needed two boosts to ingredient finding and the original SPERG autoperks included effects like those granted by Poisoner and Benefactor. 
+	-Instead of granting "The Great Work," the master effect grants "Concentrated Poisons" and "Purity." This is purely due to subjective ~thematic concerns~ because I think The Great Work is too big a deal to be granted by a scroll for a limited period of time. It's the dream of all alchemists!
+
+Deep Integration Changes:
+Essentially, SPERG effects which were "added as a second level" are instead rolled into the base CACO perk in various ways.
+The following is a listing of changes to CACO perks:
+	-Snakeblood: Renamed "Venom-Blooded." Includes the Troll Blood "poison enemies in melee range" chance effect, but removes the health regen benefit (in favor of Physician's regen bonus). 
+	-Physician: The "second level" was something of a kludge to include some marginal benefits of SPERG fortifier somewhere. However, to "balance" the usefulness of Physician against Venom-Blooded, I've rolled a weaker version of the Physician L2 benefits into this and boosted the Health Regen benefit (to 30%).
+	-Concentrated Poisons: Renamed "Envenom." Now functions as a combination of the CACO and SPERG versions of this kind of perk. In addition to doubling the basic number of applied poison charges, at every 10 skill levels above 70, you get 3 additional charges of applied poisons. This is also boosted by buffs to Alchemy skill as per SPERG Envenom. Poison resistance effect deprecated (already added by Snakeblood).
+	-Purity: The "second level" was something of a kludge to include the benefits of the SPERG Mage Oil perk but in a way that incentivised spending an additional perk point. I've decided to just go right ahead and roll all the Level 2 benefits (Mage Oil and the double potion) into this because why not.
+
+In all cases, the original Form IDs are preserved so that you are still considered to have the CACO perk for conditional purposes.
+All the inclusions were implemented by adding an ability that adds the included SPERG perk for a similar reason.
+Some of these changes, being reversions to a default state, created what I can only call false ITM records. Don't remove any of them when cleaning with TES5Edit.
+
+For the SE release SPERG ingredients have been patched with CACO values and effects.
+
+Patch is a .esp/ESL Flagged file and will not take up a spot in your load order
+
+Installation:
+Use your mod manager or unzip to skyrim/data. It's just a single ESP file. You should probably also turn off SPERG's Alchemy tree in its MCM.
+
+Disclaimer:
+I have done very minimal testing on this, basically to make sure that the perks could be added when appropriate. I can't guarantee that it won't have problems. 
+The Adaptation version is  pretty small and simple so I think it should be fine. The Integration version has much more extensive changes. Please do report any bugs or issues and I will see what I can do. 
+
+Changelog:
+V1.0
+Initial release
+
+Thanks to:
+kryptopyr for making CACO and a bunch of awesome mods. https://www.nexusmods.com/skyrimspecialedition/mods/19924
+seorin for making SPERG and helping me out when I started learning to mod. https://www.nexusmods.com/skyrimspecialedition/mods/14180

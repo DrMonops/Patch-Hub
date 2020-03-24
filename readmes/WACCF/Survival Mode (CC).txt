@@ -1,0 +1,11 @@
+==============================
+WACCF_Survival Mode_Patch Notes
+==============================
+This file combines changes from Weapons Armor Clothing & Clutter Fixes and Skyrim Survival Mode (Creation Club).
+It also resolves conflicts between Skyrim Survival Mode and the Unofficial Skyrim Special Edition Patch.
+You should NOT use this patch if you are using Complete Alchemy and Cooking Overhaul.  If using CACO, use CACO_Survival Mode_Patch instead.
+
+Changes:
+--------
+- Carries forward changes made to certain foods and drinks that conflicted with changes made by WACCF.
+- Resolves additional conflicts between USSEP and Survival Mode which aren't already resolved by WACCF.

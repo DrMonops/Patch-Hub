@@ -1,0 +1,27 @@
+CACO - Wyrmstooth Patch Notes
+
+Author: Teabag86
+
+Patches  and 3 alcoholic drinks from Wyrmstooth with CACO keywords and effects
+Adjusts Effects for Wyrmstooth's 6 ingredients to balance with CACO
+Adds CACO Flora Fixes to Wyrmstooth's harvestable plants
+Adds CACO's harvest amount adjustments to the Wyrmstooth's harvestable plants
+**This patch contains leveled lists that need to be merged or combined with a bashed patch for full compatibility with other CACO patches
+
+Patch is a .esp/ESL Flagged file and will not take up a spot in your load order
+
+Recommended load order
+Wyrmstooth.esp
+Complete Alchemy & Cooking Overhaul.esp
+CACO_Wyrmstooth_Patch.esp
+
+Changelog:
+V1.01
+Fixed Form 44
+
+V1.0
+Initial release
+
+Credits
+Jonx0r for Wyrmstooth  https://archive.org/details/Wyrmstooth1.17BSSE
+Kryptopyr for CACO https://www.nexusmods.com/skyrimspecialedition/mods/19924

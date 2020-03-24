@@ -1,0 +1,15 @@
+==========================
+Ordinator_CCOR Patch Notes
+==========================
+This file adds Complete Crafting Overhaul Remastered crafting categories and conditions to the recipes for the Trick Arrows, Bear Traps, and Dwemer Autocannons added by Ordinator (https://www.nexusmods.com/skyrimspecialedition/mods/1137), as well as breakdown recipes for the latter two.
+
+Use this patch instead of the Ordinator_WACCF patch. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+Version 1.2 (03/01/2020)
+-Updated Ordinator's Expert Smithing perk to reflect changes made by CCOR. The two options now provided by Expert Smithing are:
+	-Smithing: Advanced Light - You can create Scaled items at a forge or anvil, and improve them twice as much. (NOTE: This is also used by many faction armors, including Dark Brotherhood, Nightingale, and Thieves' Guild.)
+	-Smithing: Advanved Heavy - You can create Orcish, Nordic, and Plate items at a forge or anvil, and improve them twice as much.
+
+Version 1.1 (12/10/2019)
+-Incorporated the changes from the Ordinator_WACCF Patch.
+-Adjusted Trick Arrow damage for consistency with WACCF and added Material keywords.

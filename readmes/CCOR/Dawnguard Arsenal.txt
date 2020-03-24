@@ -1,0 +1,31 @@
+=====================================
+Dawnguard Arsenal - CCOR Patch Notes
+=====================================
+This file modifies Dawnguard Arsenal by Madcat221 for improved consistency with Complete Crafting Overhaul Remastered by kryptopyr.
+
+INSTALLATION
+Use your preferred sorting method and load this patch after both mods
+Patch is a .esp/ESL Flagged file and will not take up a spot in your load order
+
+CHANGES
+- Adds crafting menu filters and category conditions from CCOR SE.
+- Adjusts crafting recipes to better reflect CCOR's formula and materials. 
+- Adds breakdown recipes for all Dawnguard weapons.
+- Dawnguard Elite weapons now use Galatite ingots and require the Advanced Heavy perk in order to craft and improve them.
+- Allows Dawnguard Arsenal weapons to be crafted at any forge, unless CCOR MCM option is enabled to restrict crafting to the Dawnguard Forge.
+- Additional weapon damage from Dawnguard Weapons will now reflect changes that CCOR makes to the Silver weapon perk as well as any adjustments made via the CCOR MCM settings.
+- Includes all changes from the DawnguardArsenal_WACCF_Patch.
+	- Combines changes made by both mods to DLC1DawnguardItemPerk [PERK:0200D83A]. 
+	- Four pieces of armor are required for the Matching Set perks, but only three pieces (boots, cuirass, gauntlets) are needed for the vampire-specific resistances.
+	- Adds WACCF keywords to all weapons, and adjusts weapon stats to align with WACCF.
+	- Increases Gold value of new Dawnguard Weapons to match Dwarven tier weapons.
+	- Significantly increases Gold value of Dawnguard Elite Weapons to match Glass tier weapons.
+	- Patch includes vanilla SE meshes of the Dawnguard Rune Axe and Rune Warhammer used specifically for the DA Elite weapons.  This resolves a conflict when using Dawnguard Arsenal alongside FrankFamily's Frankly HD Dawnguard Armor and Weapons and prevents the FF Rune Effect showing on these two Dawnguard Arsenal Elite weapons. It also creates a visible difference between the standard Dawnguard normal weapons (vanilla mesh) and DA Elite Weapons (FF mesh). They no longer look identical. https://www.nexusmods.com/skyrimspecialedition/mods/19663
+
+
+CHANGELOG
+V1.0 - Initial release
+
+CREDITS
+Patch Author: Teabag86
+Madcat221 for Dawnguard Arsenal https://www.nexusmods.com/skyrimspecialedition/mods/25094

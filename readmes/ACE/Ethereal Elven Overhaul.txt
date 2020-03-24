@@ -1,0 +1,5 @@
+=======================================
+Ethereal Elven Overhaul_ACE Patch Notes
+=======================================
+This file combines changes to a handful of NPCs from WACCF - Armor and Clothing Extension and Ethereal Elven Overhaul.
+Both of these mods are required in order to use this file.

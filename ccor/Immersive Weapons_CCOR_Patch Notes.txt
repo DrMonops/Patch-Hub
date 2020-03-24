@@ -1,0 +1,23 @@
+====================================
+Immersive Weapons - CCOR Patch Notes
+====================================
+This file patches Immersive Weapons by Hothtrooper44, Ironman5000, and Eckss (https://www.nexusmods.com/skyrimspecialedition/mods/16788) for improved consistency with changes made by Complete Crafting Overhaul Remastered.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both mods are required in order to use this file.
+Load Immersive Weapons after Complete Crafting Overhaul Remastered.
+
+You do NOT need to use Immersive Weapons_WACCF_Patch.esp when using this CCOR patch.
+
+
+CHANGES
+- Includes all changes from the Immersive Weapons - WACCF Patch:
+	- Adjusts arrow stats to bring them in-line with WACCF balance and keyword changes, including gravity and speed settings.
+	- Carries over WACCF's addition of the LEATHER category to the vanilla crafting menu.
+	- Adjusts leveled lists to match WACCF's weapon progression.
+	- Adjusts some of the weapon stats to bring them in-line with WACCF changes and fixed some minor inconsistencies.
+- Adds crafting menu filters and category conditions from CCOR SE.
+- Incorporates Calcinium and Galatite in a handful of recipes.
+- Adjusts crafting ingredients slightly to better reflect CCOR's standard formula. 

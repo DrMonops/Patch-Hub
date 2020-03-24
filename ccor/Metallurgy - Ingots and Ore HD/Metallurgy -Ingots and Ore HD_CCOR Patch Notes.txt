@@ -1,0 +1,7 @@
+===============================================
+Metallurgy - Ingots and Ore HD_CCOR Patch Notes
+===============================================
+This file replaces the Calcinium and Galatite Ingot meshes introduced in Complete Crafting Overhaul Remastered with new meshes based on those from Metallurgy - Ingots and Ore HD (https://www.nexusmods.com/skyrimspecialedition/mods/30738).
+Both mods are required.
+Credit to fadingsignal for the use of his Quicksilver and Steel Ingot meshes.
+

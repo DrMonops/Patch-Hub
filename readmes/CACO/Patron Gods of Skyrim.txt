@@ -1,0 +1,21 @@
+CACO - Patron Gods Of Skyrim Patch Notes
+
+Author: Teabag86
+
+Patches all alcohol (vanilla and CACO) to combine CACO effects and keywords with the Patron Sanguine Perk.
+Patches Green Thumb Alchemy Perk
+
+Patch is a .esp/ESL Flagged file and will not take up a spot in your load order
+
+Recommended load order
+Complete Alchemy & Cooking Overhaul.esp
+PatronGodsOfSkyrim.esp
+PatronGodsOfSkyrim_CACO_Patch.esp
+
+Changelog:
+V1.0
+Initial release
+
+Credits
+Robbie922004 for Patron Gods Of Skyrim  https://www.nexusmods.com/skyrimspecialedition/mods/155
+Kryptopyr for CACO https://www.nexusmods.com/skyrimspecialedition/mods/19924

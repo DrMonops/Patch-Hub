@@ -1,0 +1,46 @@
+SKYRIM IMMERSIVE CREATURES CACO PATCH NOTES
+-------------------------------------------
+CACO_SkyrimImmersiveCreatures_Patch.esp = Patch for Skyrim Immersive Creatures by lifestorock
+	Patch by DrMonops
+	Updated to SE by Velgath
+	
+	**This patch contains leveled lists that need to be merged or combined with a bashed patch for full compatibility with other CACO patches.
+	
+	General Changes
+	   - Updates all SIC ingestibles for consistency with CACO; adds missing keywords and adjusts weights, values, effects, magnitudes, and durations.
+	   - Renames Cliffracer Tail to "Raw Cliffracer Tail"; adds Cooked Cliffracer Tail food.
+	   - Updates recipe for Cliffracer Stew to use CACO ingredients; adds recipe for Cooked Cliffracer Tail.
+	   - Updates SIC spider venoms for consistency with CACO's changes to Frostbite Venom. 
+	   - Spider and Chaurus venom attacks now scale with CACO's Deadly Venoms option.
+	   - Grain Mill recipes added to make bonemeal from various skulls.
+	   - edited ingredient sounds to make them consistent with CACO 1.2 changes.
+	   - Added "RACE_" keywords to giant, falmer, spriggan, etc. races so these races work with CACO's harvest perks.
+	   - Updates all SIC ingredients to be balanced with CACO; adds missing keywords and adjusts weights, values, effects, magnitudes, and durations.
+	
+	Changes to Death Drops
+	   - Cliffracer: Adds CACO's Racer Plumes (works with CACO's extra ingredient option).
+	   - Corrupted Soul: Adds Ectoplasm; adds Bone Meal (25% drop); removes LootSmallTreasure10 and DLC1LItemSoulCairnIngredients.
+	   - Dark Seducer: Changes Daedra Heart drop from 50% to 100%.
+	   - Daedroth: Adds new DeathItemDaedroth list (Daedroth previously used DLC1DeathItemWerewolf); 
+		       Adds Daedra Heart; adds CACO's Daedroth Teeth (works with CACO's extra ingredient option).
+	   - Dreugh: Adds CACO's Dreugh Wax (works with CACO's extra ingredient option).
+	   - Falmer: Updates Blood Harvest perk so CACO's Falmer Blood can be harvested from the new falmer races added by SIC.
+	   - Giants: Updates Blood Harvest perk so CACO's Giant's Blood can be harvested from the new falmer races added by SIC.
+	   - Golden Saint: Changes Daedra Heart drop from 50% to 100%.
+	   - Husky: Removes LootSmallTreasure10; adds possbility of additional Dog Meat (works with CACO's extra meat option).
+	   - Riekling: Adjusts SIC's Riekling Ear drop slightly; changes SIC's Rielkling Heart to require Anatomist perk; 
+	   	    Adds Rielkling Ears and Hearts to DLC2 Riekling DeathItem lists.
+	   - Scamp: Adds CACO's Scamp Skin (Note: SIC doesn't presently add any Scamps to the game, so this currently has no effect).
+	   - Spiders: Adds CACO's Spider Silk to all of SIC's spiders (works with CACO's extra ingredient option); 
+		      Changes spider venoms to require Anatomist perk.
+	   - Spriggans: Updates Creature Harvest perk so Spriggan Sap can be harvested from the new spriggan races added by SIC.
+	   - Troll: Updates Blood Harvest perk so CACO's Troll's Blood can be harvested from the new troll race added by SIC.
+	   - Werewolf: Updates Blood Harvest perk so CACO's Werewolf Blood can be harvested from the new werewolf race added by SIC.
+	   - Winged Twilight: Changes Daedra Heart drop from 50% to 100%; 
+			      Adds CACO's Daedra Venin ingredient (requires Anatomist perk; works with CACO's extra ingredient option).
+	   - Zombie: Replaces SIC's Mort Flesh with CACO's Putrified Flesh (works with CACO's extra ingredient option).
+	   
+   Version
+		1.01 Adjusted Zombie Putrified Flesh Death Drop
+   
+		1.0 Initial Release for SE

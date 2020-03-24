@@ -1,0 +1,7 @@
+==========================
+CRF_TCIY Patch Notes
+==========================
+This file combines changes made to the Delayed Burial quest by Cutting Room Floor by Arthmoor and The Choice is Yours.
+Both of these mods are required in order to use this file.
+
+Version 1.1 - Updated script

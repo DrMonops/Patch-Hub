@@ -1,0 +1,21 @@
+CACO - Skyrim is Windy - Patch Notes
+
+Original Author: Teabag86
+
+Very simple patch.
+Patch combines CACO Harvest script, CACO multiple ingredient harvest and Skyrim is Windy Flexible Tree Data.
+Patch is a .esp/ESL Flagged file and will not take up a spot in your load order.
+
+Recommended load order (according to Loot)
+SkyrimIsWindy.esp
+Complete Alchemy & Cooking Overhaul.esp
+SkyrimIsWindy_CACO_Patch.esp
+
+Changelog:
+V1.0
+Initial release
+
+Credits
+Patch made with permission
+Gorgulla for Skyrim is Windy https://www.nexusmods.com/skyrimspecialedition/mods/5836
+Kryptopyr for CACO https://www.nexusmods.com/skyrimspecialedition/mods/19924

@@ -1,0 +1,17 @@
+==================================
+Wayfarers Coat - CCOR Patch Notes
+==================================
+This file patches Wayfarer's Coat by Ellise (https://www.nexusmods.com/skyrimspecialedition/mods/10194?) for improved consistency with changes made by Complete Crafting Overhaul Remastered.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Load Wayfarer's Coat after Complete Crafting Overhaul Remastered.
+
+CHANGES
+- Added breakdown recipes.
+- Added crafting menu filters and category conditions from CCOR SE.
+- Recipes for the armor items were moved to the forge; the pouches, scarf, and shawl remain at the tanning rack.
+- Survival_ArmorWarm keywords were added to the Cuirass, Gloves, Scarf, and Shawl to allow the items to function with Survival mode.
+- WAF_ProtectiveClothing keywords were added to cloth variants to allow them to work with the Protective Clothing option from Armor & Clothing Extension (https://www.nexusmods.com/skyrimspecialedition/mods/19002).
