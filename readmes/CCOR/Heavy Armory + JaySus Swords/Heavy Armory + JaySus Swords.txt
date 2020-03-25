@@ -1,0 +1,21 @@
+=====================================
+Heavy Armory - JaySus Swords - CCOR Patch Notes
+=====================================
+This file modifies JaySus Swords by JaySuS and Heavy Armory by PrivateEye for improved consistency with Complete Crafting Overhaul Remastered by kryptopyr.
+
+INSTALLATION
+Use your preferred sorting method and load this patch after both mods
+Patch is a .esp/ESL Flagged file and will not take up a spot in your load order
+
+CHANGES
+- Patches the Imperial Soldier one handed levelled list so they have either a JaySuS Swords or Heavy Armory weapon, not both.
+- Reatains the JaySus Swords Global toggle functionality added by CCOR.
+
+CHANGELOG
+V1.0 - Initial release
+
+CREDITS
+Patch Author: Teabag86
+PrivateEye for Heavy Armory https://www.nexusmods.com/skyrimspecialedition/mods/6308
+JaySuS and zeknapain for JaySuS Swords SE https://www.nexusmods.com/skyrimspecialedition/mods/29415
+
