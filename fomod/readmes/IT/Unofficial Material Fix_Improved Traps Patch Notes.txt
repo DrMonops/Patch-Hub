@@ -1,0 +1,7 @@
+==================================================
+Unofficial Material Fix_Improved Traps Patch Notes
+==================================================
+Compatibility patch for Unofficial Material Fix (https://www.nexusmods.com/skyrimspecialedition/mods/19518) and Improved Traps (both regular and Dangerous Edition).
+This is a mesh replacer and doesn't include a plugin.
+
+
