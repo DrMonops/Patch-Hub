@@ -54,6 +54,10 @@ Hunterborn.esp
 Hunterborn_CACO-SE_Patch.esp
 
 Changelog:
+V1.03
+Added DELEV tag for bashed patch
+Fixed the model path for HB_CACO_FoodMeatJerkyHare_ExtraFood
+
 V1.02
 Updated _DS_Hunterborn quest to resolve issue with being unable to butcher meat
 

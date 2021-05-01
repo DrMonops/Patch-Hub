@@ -54,6 +54,13 @@ Hunterborn.esp
 Hunterborn_CACO-SE_Patch.esp
 
 Changelog:
+V1.05 (Hunterborn MCM Version)
+Added DELEV tag for bashed patch (this time for real!)
+Fixed the model path for HB_CACO_FoodMeatJerkyHare_ExtraFood
+
+V1.04 (Hunterborn MCM Version)
+Carried forward additional changes to _DS_Hunterborn quest from Hunterborn MCM
+Switched Werebear Blood recipes from Cooking Pot to Retort
 
 V1.03 (Hunterborn MCM Version)
 Added DELEV tag for bashed patch
