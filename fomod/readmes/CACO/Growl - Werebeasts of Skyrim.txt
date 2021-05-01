@@ -15,7 +15,3 @@ This patch makes the following changes:
 CHANGE LOG
 Version 1.1.1 (2000-12-28) - Updated texture set data for Activated Werebeast Blood.
 Version 1.1 (2000-12-27) - Changed model patch for Activated Werebeast Blood to use Werebeast Blood model.
-
-
-
-

@@ -1,0 +1,29 @@
+=======================================
+Beyond Skyrim Bruma - CCOR Patch Notes
+=======================================
+This file modifies items from Beyond Skyrim Bruma for improved consistency with Complete Crafting Overhaul Remastered.  Both of these mods are required in order to use this file.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Load Beyond Skyrim Bruma_CCOR_Patch after Complete Crafting Overhaul Remastered.
+
+CHANGES
+- Added crafting menu filters and category conditions from CCOR SE.
+- Adjusted armor and weapon recipes for consistency with CCOR.
+- Adjusted the weight/value of ore, ingots, hides, and jewelry for consistency with WACCF and CCOR.
+- Created ring and necklace tokens for crafting multiple copies.
+- Modified jewelry recipes to follow CCOR formula, where the base jewelry item is created first, then the gem is combined with the jewelry piece.
+- Added Fur Plate recipes for the new hides added by Beyond Skyrim.
+- Modified the ore/ingot ratio so it is consistent with CCOR, and added additional ingot recipes to support the different CCOR ratio options.
+- Added Breakdown recipes.
+- Changed the name of the CCOR corundum/copper category to make it clear that this category also includes copper alloys, such as brass and bronze.
+- Added Survival Mode keywords where appropriate.
+- Added WAF_PerkFists keywords to light armor gauntlets
+- Added WAF_ProtectiveClothing keywords to clothing.
+- Adjusted weapon stats to conform with WACCF changes and carried over bug fixes. 
+- Renamed Iron and Steel weapons to "Cyrodiilic Iron" and "Cyrodiilic Steel"
+- Added appropriate
+- Adjusted leveled lists for consistency with WACCF True Orcish weapons.
+- Added unenchanted Ayleid and Goblin staff templates that can be crafted and work with the staff enchanter.
+- Changed Alessian and Alessian Honed items to derive their tempering bonuses from the Orcish and Ebony Smithing perks, respectively.
