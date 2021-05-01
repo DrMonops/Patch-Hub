@@ -1,0 +1,5 @@
+===========================================
+Unique Stros M'Kai Rum - CACO Patch Notes
+===========================================
+This file adjusts Unique Stros M'Kai Rum by fadingsignal (https://www.nexusmods.com/skyrimspecialedition/mods/43830) for compatibility with Complete Alchemy and Cooking Overhaul.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
