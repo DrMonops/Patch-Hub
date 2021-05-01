@@ -1,0 +1,16 @@
+==============================================
+iNeed Universal Water Patch - CACO Patch Notes
+==============================================
+This file merges changes to the _snquestscript script from both iNeed Universal Water Patch (https://www.nexusmods.com/skyrimspecialedition/mods/43011) and Complete Alchemy and Cooking Overhaul.
+As the iNeed Universal Water Patch consist of only this one script, it can be disabled or removed from your load order if the iNeed Universal Water CACO patch is installed (but please still consider downloading and endorsing it).
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+REQUIREMENTS
+-SKSE64
+-powerofthree's Papyrus Extender for SSE﻿
+-iNeed - Food Water and Sleep - Continued﻿
+-Complete Alchemy and Cooking Overhaul
+
+INSTALLATION
+Load after iNeed - Food Water and Sleep - Continued﻿ and Complete Alchemy and Cooking Overhaul.
+
