@@ -1,0 +1,8 @@
+========================
+SunHelm_CACO Patch Notes
+========================
+Compatibility patch for SunHelm Survival and Needs (https://www.nexusmods.com/skyrimspecialedition/mods/39414) and Complete Alchemy and Cooking Overhaul.
+With this patch installed, whenever you activate a cookpot or oven, any water you are carrying in SunHelm containers will be converted into CACO water tokens, allowing it to be used in cooking recipes.
+Water containers can be refilled manually using newly added recipes.
+Appropriate CACO and CCOR crafting conditions for Sunhelm's recipes are also added.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
