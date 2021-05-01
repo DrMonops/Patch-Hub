@@ -24,6 +24,7 @@ CHANGES
 
 
 CHANGELOG
+V1.1 - Added SilverSwordScript to the Dawnguard Bright Waraxe and Dawnguard Bright Warhammer artifact replicas from CCOR.
 V1.0 - Initial release
 
 CREDITS
