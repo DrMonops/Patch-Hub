@@ -1,7 +1,7 @@
 CACO Ordinatored Patch Notes
 
 Original Author: Servant of Sin
-Modified for SE by: Teabag86, Kryptopyr and Rusey
+Modified for SE by: Teabag86, Kryptopyr, and Rusey
 
 Patch uses the Ordinator tree and ties the CACO unlocks to the Ordinator Perks.
 This way you get Ordinator's balance with CACO's new recipes and changes.
@@ -31,6 +31,12 @@ Complete Alchemy & Cooking Overhaul.esp
 CACO_Ordinator_Patch.esp
 
 Changelog:
+V1.05
+Added "Names" bash tag.
+
+V1.04
+Fixed Snakeblood perk
+
 V1.03
 Changed CACO load screens to reflect Ordinator perk changes
 Added CACO Bonemeal grinding recipes to Ordinator bones unlocked with the Conjuration perk Bonecollector

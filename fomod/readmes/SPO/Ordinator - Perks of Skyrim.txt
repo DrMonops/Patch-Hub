@@ -1,0 +1,8 @@
+=========================
+Ordinator_SPO Patch Notes
+=========================
+Compatibility patch for Ordinator - Perks of Skyrim (https://www.nexusmods.com/skyrimspecialedition/mods/1137/) and Smithing Perks Overhaul SE.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 1.1 (2021-01-30) - Added "Ordinator - Perks of Skyrim.esp" and "Smithing Perks Overhaul SE.esp" as masters and ESL-flagged plugin.
