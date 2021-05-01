@@ -1,0 +1,8 @@
+=======================================
+Tail Armors - Replacer_WACCF Patch Notes
+=======================================
+This file combines the changes from Weapons Armor Clothing and Clutter Fixes and Tail Armors - Replacer (https://www.nexusmods.com/skyrimspecialedition/mods/11471) by LordiAnders.
+Both of these files are required.
+
+Version 1.0 (2021/02/25)
+-Initial release
