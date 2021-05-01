@@ -1,0 +1,10 @@
+==============================================
+Wintersun_Custom Race Support_CACO Patch Notes
+==============================================
+This file incorporates the changes from Wintersun - Custom Race Support (https://www.nexusmods.com/skyrimspecialedition/mods/24745) by kamikatze13 into the Wintersun_CACO patch (which it replaces).
+Requires RaceCompatibility for Skyrim Special Edition, Wintersun - Faiths of Skyrim, Complete Alchemy and Cooking Overhaul, and Wintersun - Custom Race Support.
+
+DO NOT USE WITH WINTERSUN_CACO PATCH.
+
+Version 1.0 (2021/02/25)
+-Initial release
