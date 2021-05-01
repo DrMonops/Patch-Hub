@@ -1,0 +1,7 @@
+=============================
+Book Covers Skyrim_CCOR Patch
+=============================
+Compatibility patch for Completed Crafting Overhaul Remastered and Book Covers Skyrim (https://www.nexusmods.com/skyrimspecialedition/mods/901) by DanielCoffey.
+
+Version 1.0 (2021/02/26)
+-Initial release.
