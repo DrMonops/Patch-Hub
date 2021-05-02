@@ -1,0 +1,10 @@
+===================================
+Medieval Spirits - CACO Patch Notes
+===================================
+This file changes the model paths for some beverages added by CACO for compatibility with Medieval Spirits by mathy79 (https://www.nexusmods.com/skyrimspecialedition/mods/24243).
+
+Currently affected beverages include:
+-Mead with Juniper Berry
+-Milk
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
