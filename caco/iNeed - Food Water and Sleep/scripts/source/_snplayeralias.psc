@@ -403,7 +403,7 @@ Event OnObjectEquipped(Form akBaseObject, ObjectReference akReference)
 				CheckRecentFood(Food)
 				SetAVChange(35.0, 0.0, 0.0)
 				SetNeedsChange(40.0, 0.0, 0.25, 7)
-				_SNQuest.CheckCheese(targ, Food)
+;				_SNQuest.CheckCheese(targ, Food)
 
 			ElseIf _SNQuest._SNFood_SoupList.HasForm(Food)
 
@@ -426,7 +426,7 @@ Event OnObjectEquipped(Form akBaseObject, ObjectReference akReference)
 				Else
 					SetNeedsChange(25.0, 0.0, 0.1, 3)
 				EndIf
-				_SNQuest.CheckCheese(targ, Food)
+;				_SNQuest.CheckCheese(targ, Food)
 
 			ElseIf _SNQuest._SNFood_DrinkList.HasForm(Food)
 
