@@ -1,0 +1,18 @@
+===============================================
+Aetherium Armor and Weapons - CCOR Patch Notes
+===============================================
+This file modifies Aetherium Armor and Weapons Compilation by lautasantenni (https://www.nexusmods.com/skyrimspecialedition/mods/2687) for improved consistency with Complete Crafting Overhaul Remastered.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Load Aetherium Armor and Weapons after Complete Crafting Overhaul Remastered.
+
+CHANGES
+- Added crafting menu filters and category conditions from CCOR SE.
+- Adjusted crafting ingredients slightly to better reflect CCOR's standard formula. 
+- Changed Steel/Quicksilver ingots in recipes to Galatite.
+- Added "Dwarven" to the name of the Power weapons to match the name of the armor pieces.
+- Changed perk requirement from DwarvenSmithing to OrcishSmithing, and added ArcaneBlacksmith as a required perk for all recipes.
+- Rebalanced armor and weapons to fit better with WACCF's balance.  Most items are now similar to Dragonbone in armor/damage rating.
