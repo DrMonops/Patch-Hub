@@ -1,0 +1,25 @@
+=====================================================
+Heavy Armory - aMidianBorn Content Addon Patch Notes
+=====================================================
+This file modifies Heavy Armory - New Weapons by PrivateEye (https://www.nexusmods.com/skyrimspecialedition/mods/6308) for improved consistency with Weapons Armor Clopthing & Clutter Fixes, Complete Crafting Overhaul Remastered, and aMidianBorn Content Addon SE.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+
+INSTALLATION
+Load Heavy Armory after aMidianBorn Content Addon.
+You do NOT need to use PrvtI_HeavyArmory_WACCF_Patch.esp or PrvtI_HeavyArmory_CCOR_Patch.esp when using this patch.
+
+CHANGES
+- Patches Heavy Armory's Skyforge weapons to use the unique aMidianBorn Skyforge textures.
+
+- Includes all changes from the Heavy Armory - WACCF Patch:
+	- Removed PerkInvestorWhiterunGeneralList from MerchantCaravan chests (this carries forward a change from USSEP)
+	- Adjusted weapon stats to bring them in-line with WACCF balancing and fixed some minor inconsistencies.
+	- Adjusted leveled lists to match WACCF's weapon progression
+- Includes all changes from the Heavy Armory - CCOR Patch:
+	- Added crafting menu filters and category conditions from CCOR SE.
+	- Added Breakdown recipes for most items.
+	- Added "Learning" recipes for new Ancient Nord, Falmer, and Forsworn items.
+	- Incorporated Calcinium and Galatite in some of the recipes.
+	- Adjusted crafting ingredients slightly to better reflect CCOR's standard formula. 
