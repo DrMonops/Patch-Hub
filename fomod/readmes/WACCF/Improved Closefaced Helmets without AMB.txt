@@ -1,0 +1,14 @@
+==========================================
+Improved Closefaced Helmets - WACCF Patch 
+==========================================
+Compatibility patch for Improved Closefaced Helmets (https://www.nexusmods.com/skyrimspecialedition/mods/824) and Weapons Armor Clothing and Clutter Fixes.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+Version 1.1 (03/01/2020)
+-Rebuilt as a standalone ESL-flagged patch, rather than a .esp replacer.
+	
+Version 1.2 (05/11/2020)
+-Copied over a couple of changes to AA (Armor Addon) records that were previously missed.
+-Changed the patch so that it now uses the duplicate AA records from ICH instead of copying the changes to the original helmet AAs. This has little functional effect but reduces the appearance of conflicts in xEdit.  It also allows for "softer" conflicts in cases where another mod may be overwriting these Armor records. 
+-Renamed the patch plugin to allow for easier sorting within your load order.

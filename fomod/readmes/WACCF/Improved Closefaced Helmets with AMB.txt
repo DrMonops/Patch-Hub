@@ -1,0 +1,12 @@
+==============================================================
+Improved Closefaced Helmets - aMidianBorn Content Addon Patch 
+==============================================================
+Compatibility patch for Improved Closefaced Helmets (https://www.nexusmods.com/skyrimspecialedition/mods/824) and aMidianBorn Content Addon (https://www.nexusmods.com/skyrimspecialedition/mods/35390).
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Load Improved Closefaced Helmets after aMidianBorn Content Addon.
+
+You do NOT need to use imp_helm_legend_WACCF_Patch.esp when using this patch.
