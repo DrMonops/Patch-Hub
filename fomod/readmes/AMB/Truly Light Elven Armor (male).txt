@@ -1,0 +1,13 @@
+================================================================
+Truly Light Elven Armor (Male) - aMidianBorn Content Addon Patch 
+================================================================
+Compatibility patch for Truly Light Elven Armor (Male) (https://www.nexusmods.com/skyrimspecialedition/mods/12872) and aMidianBorn Content Addon (https://www.nexusmods.com/skyrimspecialedition/mods/35390).
+
+This patch is designed for the TL-ElvenArmor-Male-Replacer "Main Replacer File" version of Truly Light Elven Armor.
+It also supports the Optional TL-ElvenArmor-Light-Male-Replacer (Additional replacer for Elven-Light armor).
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Load aMidianBorn_CA_TrulyLight_ElvenMale_Patch.esp after aMidianBorn_ContentAddon.esp.
