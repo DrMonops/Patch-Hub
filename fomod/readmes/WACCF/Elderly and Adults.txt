@@ -3,3 +3,7 @@ Elderly and Adults_WACCF Patch Notes
 ====================================
 Compatibility patch for Elderly and Adults (https://www.nexusmods.com/skyrimspecialedition/mods/42335) and Weapons Armor Clothing and Clutter Fixes.
 This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 1.1 (2021-09-07) - Added ElderRace to a number of ArmorAddon records, which was causing some NPCs with equipped with hoods to appear bald. Thank you to sinzzz for the fix!
+Version 1.0 - Initial release.
