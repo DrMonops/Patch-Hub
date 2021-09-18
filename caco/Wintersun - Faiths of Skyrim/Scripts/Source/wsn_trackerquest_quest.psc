@@ -1,89 +1,58 @@
 scriptName WSN_TrackerQuest_Quest extends Quest
 
 ;-- Properties --------------------------------------
-globalvariable property WSN_Favor_Global auto
-message property WSN_Prayer_Message_Azura auto
-message property WSN_Misc_Message_DidNotMeditate auto
-spell property WSN_Redguard_Ruptga_Boon1_Spell_ProcOnSelf auto
-globalvariable[] property WSN_DrainRateMult auto
-globalvariable property WSN_ModifyFavor_Shared_DrainRateMult_DuringBeneficialBuff auto
-String[] property WSN_StatBuffToGains auto
-Bool property IsFavored = false auto
-keyword property VendorItemArmor auto
-globalvariable[] property WSN_DynamicStat2_Multiplier auto
-globalvariable property PlayerFollowerCount auto
-spell property WSN_Prayer_Spell auto
-message[] property WSN_MehrunesMessage auto
-globalvariable property WSN_ModifyFavor_Shared_RedguardPrayerCap auto
-globalvariable property WSN_FavorFavoredRaceMult_Global auto
-String property WSN_StringFavored auto
-String[] property WSN_DeityName auto
-message property WSN_Prayer_Message_Hircine_Fail auto
 globalvariable property WSN_ModifyFavor_Shared_GainRateModifierDay auto
-faction property PlayerMarriedFaction auto
-globalvariable property WSN_ModifyFavor_Shared_GainRateModifierBase auto
-globalvariable property WSN_ModifyFavor_Shared_PrayerGainFavorableWeather auto
-globalvariable property WSN_Effect_Global_DestinyActivated auto
-message property WSN_Help_Message_WorshipBasics_Clavicus auto
-quest[] property WSN_QuestToComplete auto
-spell property WSN_Daedra_Jyggalag_Boon1_Spell_ProcOnSelf auto
-Float property WSN_HourglassMult auto
-globalvariable property WSN_Favor_Global_Fractional4 auto
-message property WSN_Prayer_Message_TheHist_Fail auto
-globalvariable property WSN_Effect_Global_MehrunesExplodesMax auto
-globalvariable[] property WSN_StaticAttr_Multiplier auto
-globalvariable property WSN_ModifyFavor_Divine_Mara_FavorIfMarried auto
-message property WSN_Prayer_Message_Sithis_Fail auto
-globalvariable property WSN_ModifyFavor_Divine_Mara_FavorIfHouseOwned auto
 globalvariable property WSN_Favor_Global_Fractional2 auto
-magiceffect property WSN_Prayer_Effect_Sit_Diseased auto
-String[] property WSN_StaticSkills auto
-location property HighHrothgarLocation auto
-magiceffect property RestedMarriageSkillEffect auto
-globalvariable property WSN_ModifyFavor_Misc_StAlessia_FavorIfHasFollower auto
-globalvariable property WSN_ModifyFavor_Redguard_Morwha_FavorIfMarried auto
-message property WSN_Prayer_Message_TheMagnaGe auto
-message property WSN_Prayer_Message_RiddleThar_Fail auto
-magiceffect property WSN_Prayer_Effect_Sit_IsInWilderness auto
-globalvariable property WSN_ModifyFavor_Shared_GainRateModifierCap auto
-globalvariable property WSN_ModifyFavor_Divine_Akatosh_FavorPerLevelUp auto
-Float[] property WSN_PreviousFavor auto
-message property WSN_Prayer_Message_Nocturnal_Fail auto
-message property WSN_Help_Message_BecomeFavored auto
-Float property GameDayLastDecayed = -1.00000 auto
-spell[] property WSN_Boon2 auto
-String property WSN_StringApostasy auto
-spell property WerewolfChange auto
-magiceffect property WSN_Prayer_Effect_Sit_IsWerewolf auto
-race[] property WSN_FavoredRace0 auto
-keyword property VendorItemClothing auto
-message property WSN_Prayer_Message_Mannimarco_Fail auto
-String[] property WSN_StaticStat0 auto
-spell[] property WSN_Boon1 auto
-message property WSN_Prayer_Message_TheAllMaker_Fail auto
-Bool[] property WSN_QuestIsCompleted auto
-race[] property WSN_FavoredRace1 auto
-String[] property WSN_DynamicStat1 auto
-spell property WSN_Cure_Spell auto
-globalvariable property WSN_ModifyFavor_Khajiit_RiddleThar_FavorFromMinSkills auto
+message property WSN_Prayer_Message_Azura_Fail auto
+String[] property WSN_DeityName auto
+String[] property WSN_DynamicStat0 auto
 message property WSN_Prayer_Message_Peryite_Fail auto
 Float property WSN_ThresholdFavored auto
-magiceffect property WSN_Item_ElvenLamp_Effect_Ench auto
-String[] property WSN_StaticAttr auto
-globalvariable property WSN_Effect_Global_MehrunesExplodes auto
-String[] property WSN_DynamicStat0 auto
-keyword property Vampire auto
-Float property FavorChangeQueued auto
-message property WSN_Help_Message_Apostasy auto
-wsn_peryite_script property WSN_Peryite auto
-globalvariable[] property WSN_StatBuffToGains_Multiplier auto
-message property WSN_Help_Message_WorshipBasics_Vaermina auto
-globalvariable property WSN_Spell_Global_DivineType auto
+globalvariable property WSN_ModifyFavor_Shared_RedguardPrayerCap auto
+message property WSN_Prayer_Message_Azura auto
+globalvariable property WSN_FavorCurve_Global auto
+message[] property WSN_MehrunesMessage auto
+globalvariable property WSN_Favor_Global_FractionalPig auto
+globalvariable property WSN_ModifyFavor_Shared_PrayerRateMult_1_Daedra_SheoOverride auto
+quest[] property WSN_QuestToComplete auto
+message property WSN_Prayer_Message_Kynareth_Fail auto
+String[] property WSN_StatBuffToGains auto
+spell[] property WSN_Blessing auto
+globalvariable property GameDaysPassed auto
+keyword property WSN_MagicBlessing_Keyword_Divine auto
+globalvariable property WSN_ModifyFavor_Divine_Akatosh_FavorPerLevelUp auto
+race[] property WSN_FavoredRace1 auto
+globalvariable[] property WSN_DynamicStat0_Multiplier auto
+String property WSN_StringFavored auto
+message property WSN_Prayer_Message_TheMagnaGe auto
+message property WSN_Prayer_Message_RiddleThar_Fail auto
+magiceffect property WSN_Prayer_Effect_Sit_IsWerewolf auto
+globalvariable property WSN_ModifyFavor_Shared_GainRateModifierBase auto
+magiceffect property WSN_Item_Hourglass_Effect_Ench auto
+faction property PlayerMarriedFaction auto
+message property WSN_Prayer_Message_Sithis_Fail auto
+keyword property VendorItemArmor auto
+String property WSN_StringApostasy auto
 globalvariable property WSN_ModifyFavor_Daedra_Vaermina_MeditationMult auto
-String property WSN_NoDeity auto
-String property WSN_StringFavored2 auto
-globalvariable[] property WSN_FavorBase_Global auto
-String property WSN_AV auto
+magiceffect property RestedMarriageSkillEffect auto
+Bool[] property WSN_QuestIsCompleted auto
+globalvariable property WSN_ModifyFavor_Shared_PrayerGainFavorableWeather auto
+globalvariable property WSN_ModifyFavor_Divine_Mara_FavorIfHouseOwned auto
+spell[] property WSN_Boon2 auto
+String[] property WSN_StaticStat0 auto
+globalvariable property WSN_ModifyFavor_Shared_DrainRateMult_1_Daedra_SheoOverride auto
+globalvariable[] property WSN_DynamicStat1_Multiplier auto
+String[] property WSN_DynamicStat2 auto
+globalvariable property WSN_Favor_Global auto
+globalvariable property WSN_ModifyFavor_Shared_GainRateModifierCap auto
+globalvariable property WSN_ModifyFavor_Divine_Mara_FavorIfMarried auto
+keyword property Vampire auto
+Float property GameDayLastDecayed = -1.00000 auto
+globalvariable property WSN_ModifyFavor_Khajiit_RiddleThar_FavorFromMinAttribute auto
+globalvariable property WSN_Effect_Global_HermaThresholdJump auto
+location property GlenmorilCovenLocation auto
+message property WSN_Help_Message_WorshipBasics_Vaermina auto
+globalvariable[] property WSN_StaticStat1_Multiplier auto
 Float[] property WSN_LastUsedFakeGameHours auto
 {0 = meditation
 1 = shrine blessing
@@ -92,90 +61,128 @@ Float[] property WSN_LastUsedFakeGameHours auto
 4 = shouted
 5 = thalmor kill
 6 = shrine defiled}
-globalvariable property GameDaysPassed auto
-potion property CACO_FoodMeatHumanoidFlesh auto
-Int property WorshipID = -1 auto
-globalvariable property WSN_Misc_Global_DrainMult auto
-globalvariable[] property WSN_StaticStat0_Multiplier auto
-message property WSN_Effects_Message_Herma_PerkPoint auto
-globalvariable[] property WSN_DynamicStat0_Multiplier auto
-globalvariable property WSN_Misc_Global_DisableAbandon auto
-String[] property WSN_StaticStat1 auto
-Float property WSN_FavoredDiminishTarget auto
-spell[] property WSN_Blessing auto
-globalvariable property WSN_Effect_Global_BlockDecay auto
-message property WSN_Prayer_Message_TheMagnaGe_Fail auto
-magiceffect property WSN_Item_Hourglass_Effect_Ench auto
-message property WSN_Help_Message_BecomeUnfavored auto
-message property WSN_Help_Message_WorshipBasics_Yokudan auto
-globalvariable property WSN_Effect_Global_CurrentHermaThreshold auto
-message property WSN_Prayer_Message_Azura_Fail auto
-globalvariable property WSN_ModifyFavor_Shared_PrayerRateMult_1_Daedra_SheoOverride auto
-globalvariable property WSN_ModifyFavor_Shared_PrayerGainFavorableWeatherSuper auto
-message[] property WSN_FavorDisplay auto
-globalvariable property WSN_Effect_Global_PeryiteBreathWeaponUsed auto
-globalvariable property WSN_ModifyFavor_Shared_DrainRateMult_1_Daedra_SheoOverride auto
-message property WSN_Prayer_Message_Kynareth_Fail auto
-globalvariable property WSN_Misc_Global_MeditateMult auto
-globalvariable property WSN_Misc_Global_FavorMod auto
-globalvariable property WSN_FavorDrain_Global auto
-spell property WSN_Misc_TheHist_Boon1_Spell_ProcOnSelf auto
+spell[] property WSN_Boon1 auto
+Float[] property WSN_PreviousFavor auto
+globalvariable property WSN_ModifyFavor_Redguard_Morwha_FavorIfMarried auto
+magiceffect property MQpathToHHShrineEffect auto
+spell[] property WSN_Tenet auto
+globalvariable property WSN_Favor_Global_Fractional3 auto
 location property WhiterunTempleofKynarethLocation auto
-actor property PlayerRef auto
-globalvariable property WSN_Favor_Global_FractionalPig auto
-String[] property WSN_StaticStat2 auto
-message property WSN_Help_Message_WorshipBasics auto
-globalvariable[] property WSN_Quest_Multiplier auto
+globalvariable property WSN_ModifyFavor_Misc_StAlessia_FavorIfHasFollower auto
+String[] property WSN_StaticAttr auto
+Float property WSN_FavoredDiminishTarget auto
 globalvariable property WSN_Favor_Global_Fractional auto
+magiceffect property WSN_Item_ElvenLamp_Effect_Ench auto
+Bool property IsFavored = false auto
+spell property WSN_Redguard_Ruptga_Boon1_Spell_ProcOnSelf auto
+String[] property WSN_StaticStat2 auto
+Float[] property WSN_PrayerRateMultIndividual auto
+spell property WSN_Divine_Kynareth_Boon2_Spell_ProcOnSelf auto
+message property WSN_Help_Message_Apostasy auto
+message property WSN_Misc_Message_DidNotMeditate auto
+String[] property WSN_StaticStat1 auto
+globalvariable property WSN_Misc_Global_DrainMult auto
+wsn_peryite_script property WSN_Peryite auto
+String[] property WSN_StaticSkills auto
+message property WSN_Help_Message_WorshipBasics_Yokudan auto
+message property WSN_Help_Message_BecomeFavored auto
+globalvariable property WSN_Effect_Global_PeryiteBreathWeaponUsed auto
+message[] property WSN_FavorDisplay auto
+globalvariable property WSN_Misc_Global_DisableAbandon auto
+globalvariable[] property WSN_DynamicStat2_Multiplier auto
+Float property FavorChangeQueued auto
+message property WSN_Help_Message_WorshipBasics auto
+message property WSN_Effects_Message_Herma_PerkPoint auto
+message property WSN_Prayer_Message_Hircine_Fail auto
+message property WSN_Prayer_Message_TheAllMaker_Fail auto
+globalvariable property WSN_Effect_Global_BlockDecay auto
+spell property WerewolfChange auto
 ingredient property HumanHeart auto
+message property WSN_Help_Message_BecomeUnfavored auto
+globalvariable property WSN_Misc_Global_MeditateMult auto
+message property WSN_Help_Message_WorshipBasics_Clavicus auto
+String property WSN_NoDeity auto
+message property WSN_Prayer_Message_RiddleThar auto
+String[] property WSN_DynamicStat1 auto
+actor property PlayerRef auto
+String property WSN_StringUnfavored2 auto
+globalvariable property WSN_FavorDrain_Global auto
+message property WSN_Prayer_Message_TheHist_Fail auto
+Int property WorshipID = -1 auto
+spell property WSN_Misc_TheHist_Boon1_Spell_ProcOnSelf auto
+message property WSN_Prayer_Message_Dibella_Fail auto
+Float[] property WSN_DrainRateMultIndividual auto
+Float property WSN_HourglassMult auto
+ingredient property HumanFlesh auto
+spell property WSN_Daedra_Jyggalag_Boon1_Spell_ProcOnSelf auto
+globalvariable[] property WSN_StaticStat0_Multiplier auto
+spell property WSN_Cure_Spell auto
+spell property WSN_Prayer_Spell auto
+globalvariable property WSN_Effect_Global_DestinyActivated auto
+globalvariable property WSN_Spell_Global_DivineType auto
+globalvariable[] property WSN_DrainRateMult auto
+globalvariable property WSN_ModifyFavor_Shared_DrainRateMult_DuringBeneficialState auto
+message property WSN_Prayer_Message_Julianos auto
+globalvariable property PlayerFollowerCount auto
+globalvariable property WSN_Favor_Global_Fractional4 auto
+globalvariable[] property WSN_Quest_Multiplier auto
+globalvariable[] property WSN_StaticAttr_Multiplier auto
+globalvariable[] property WSN_StaticStat2_Multiplier auto
+globalvariable property WSN_Misc_Global_FavorMod auto
+globalvariable[] property WSN_PrayerRateMult auto
+location property HighHrothgarLocation auto
+objectreference property WSN_Shrine auto
 globalvariable property WSN_Favor_Global_FractionalHircine auto
 Float property WSN_UpdateRate auto
-globalvariable property GameHour auto
-globalvariable[] property WSN_StaticStat2_Multiplier auto
-globalvariable property WSN_ModifyFavor_Shared_DrainRateMult_DuringBeneficialState auto
-message property WSN_Prayer_Message_Nocturnal auto
-spell[] property WSN_Tenet auto
-Float[] property WSN_DrainRateMultIndividual auto
-Int[] property WSN_DivineTypeID auto
-globalvariable[] property WSN_StaticStat1_Multiplier auto
-globalvariable[] property WSN_PrayerRateMult auto
-globalvariable property WSN_Effect_Global_HermaThresholdJump auto
-globalvariable[] property WSN_StaticSkills_Multiplier auto
-globalvariable property WSN_FavorCurve_Global auto
-String[] property WSN_DivineType auto
-String property WSN_StringUnfavored2 auto
-globalvariable property WSN_ModifyFavor_Khajiit_RiddleThar_FavorFromMinAttribute auto
-message property WSN_Prayer_Message_RiddleThar auto
-message property WSN_Prayer_Message_Julianos auto
-String property WSN_StringUnfavored auto
 explosion property WSN_Explosion auto
-Float[] property WSN_PrayerRateMultIndividual auto
-globalvariable property WSN_Favor_Global_Fractional3 auto
-objectreference property WSN_Shrine auto
-String[] property WSN_DynamicStat2 auto
-globalvariable property WSN_Effect_Global_RuptgaCounter auto
-keyword property WSN_MagicBlessing_Keyword_Divine auto
-message property WSN_Prayer_Message_Dibella_Fail auto
-globalvariable[] property WSN_DynamicStat1_Multiplier auto
-magiceffect property MQpathToHHShrineEffect auto
+globalvariable[] property WSN_FavorBase_Global auto
+globalvariable property WSN_ModifyFavor_Shared_DrainRateMult_DuringBeneficialBuff auto
+Int[] property WSN_DivineTypeID auto
 globalvariable property WSN_FavorMeditation_Global auto
+message property WSN_Prayer_Message_Mannimarco_Fail auto
+message property WSN_Prayer_Message_Nocturnal auto
+message property WSN_Prayer_Message_Nocturnal_Fail auto
+globalvariable property WSN_Effect_Global_MehrunesExplodes auto
+globalvariable property WSN_ModifyFavor_Shared_PrayerGainFavorableWeatherSuper auto
+globalvariable[] property WSN_StaticSkills_Multiplier auto
+race[] property WSN_FavoredRace0 auto
+String property WSN_StringUnfavored auto
+globalvariable property WSN_FavorFavoredRaceMult_Global auto
+globalvariable property WSN_Effect_Global_CurrentHermaThreshold auto
+globalvariable property WSN_ModifyFavor_Khajiit_RiddleThar_FavorFromMinSkills auto
+globalvariable[] property WSN_StatBuffToGains_Multiplier auto
+String property WSN_AV auto
+globalvariable property WSN_Effect_Global_MehrunesExplodesMax auto
+String[] property WSN_DivineType auto
+String property WSN_StringFavored2 auto
+globalvariable property GameHour auto
+magiceffect property WSN_Prayer_Effect_Sit_IsInWilderness auto
+globalvariable property WSN_Effect_Global_RuptgaCounter auto
+keyword property VendorItemClothing auto
+message property WSN_Prayer_Message_TheMagnaGe_Fail auto
+magiceffect property WSN_Prayer_Effect_Sit_Diseased auto
+potion property CACO_FoodMeatHumanoidFlesh auto
+
 
 ;-- Variables ---------------------------------------
-Float DynamicStat0 = 0.000000
-Float DynamicStat2 = 0.000000
 Bool ShowReminder = false
-Int StartSpellCount = 0
 Float StartDay = 0.000000
-Int CharacterLevel = 0
 Float DynamicStat1 = 0.000000
+Int StartSpellCount = 0
+Int CharacterLevel = 0
+Float DynamicStat2 = 0.000000
+Float DynamicStat0 = 0.000000
 
 ;-- Functions ---------------------------------------
 
-; Skipped compiler generated GetState
+function QueueDiminishingFavorChange(Float akFavorChange, Bool abUpdateImmediately, Int aiLastUsedArrayID, Bool abShowStatusMessages)
 
-function OnInit()
-
-	self.RegisterForSingleUpdateGameTime(WSN_UpdateRate * utility.RandomFloat(0.500000, 1.50000))
+	Float TimeSinceLast = GameDaysPassed.GetValue() - WSN_LastUsedFakeGameHours[aiLastUsedArrayID]
+	if TimeSinceLast > 1.00000
+		TimeSinceLast = 1.00000
+	endIf
+	WSN_LastUsedFakeGameHours[aiLastUsedArrayID] = GameDaysPassed.GetValue()
+	self.QueueFavorChange(akFavorChange * TimeSinceLast, abUpdateImmediately, abShowStatusMessages)
 endFunction
 
 function OnUpdateGameTime()
@@ -224,160 +231,6 @@ function OnUpdateGameTime()
 		if WSN_LastUsedFakeGameHours[0] + 1.00000 < GameDaysPassed.GetValue() && ShowReminder == false
 			WSN_Misc_Message_DidNotMeditate.Show(0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000)
 			ShowReminder = true
-		endIf
-	endIf
-endFunction
-
-function StartWorship(Int ID)
-
-	if self.EndWorship()
-		WorshipID = ID
-		if WSN_DynamicStat0[WorshipID]
-			DynamicStat0 = game.QueryStat(WSN_DynamicStat0[WorshipID]) as Float
-		else
-			DynamicStat0 = 0 as Float
-		endIf
-		if WSN_DynamicStat1[WorshipID]
-			DynamicStat1 = game.QueryStat(WSN_DynamicStat1[WorshipID]) as Float
-		else
-			DynamicStat1 = 0 as Float
-		endIf
-		if WSN_DynamicStat2[WorshipID]
-			DynamicStat2 = game.QueryStat(WSN_DynamicStat2[WorshipID]) as Float
-		else
-			DynamicStat2 = 0 as Float
-		endIf
-		FavorChangeQueued = 0.000000
-		PlayerRef.AddSpell(WSN_Boon1[WorshipID], true)
-		PlayerRef.AddSpell(WSN_Tenet[WorshipID], false)
-		if WorshipID != 12
-			PlayerRef.AddSpell(WSN_Prayer_Spell, true)
-		endIf
-		if WorshipID == 11
-			WSN_Effect_Global_MehrunesExplodes.SetValue(0 as Float)
-			WSN_Effect_Global_MehrunesExplodesMax.SetValue(40 as Float)
-		elseIf WorshipID == 24
-			WSN_Peryite.InitDiseases()
-		elseIf WorshipID == 27
-			WSN_Effect_Global_DestinyActivated.SetValue(0 as Float)
-		elseIf WorshipID == 37
-			WSN_Effect_Global_RuptgaCounter.SetValue(100 as Float)
-		endIf
-		if WorshipID == 12
-			WSN_Help_Message_WorshipBasics_Vaermina.ShowAsHelpMessage("WorshipBasicsVaermina", 6.00000, 9999 as Float, 1)
-		elseIf WorshipID == 29
-			WSN_Help_Message_WorshipBasics_Clavicus.ShowAsHelpMessage("WorshipBasicsClavicus", 6.00000, 9999 as Float, 1)
-		elseIf WorshipID == 36 || WorshipID == 37 || WorshipID == 38 || WorshipID == 45
-			WSN_Help_Message_WorshipBasics_Yokudan.ShowAsHelpMessage("WorshipBasicsYokudan", 6.00000, 9999 as Float, 1)
-		else
-			WSN_Help_Message_WorshipBasics.ShowAsHelpMessage("WorshipBasics", 6.00000, 9999 as Float, 1)
-		endIf
-		GameDayLastDecayed = GameDaysPassed.GetValue()
-		WSN_LastUsedFakeGameHours[0] = GameDayLastDecayed
-		WSN_LastUsedFakeGameHours[1] = GameDayLastDecayed
-		WSN_LastUsedFakeGameHours[2] = GameDayLastDecayed
-		WSN_LastUsedFakeGameHours[3] = GameDayLastDecayed
-		WSN_LastUsedFakeGameHours[4] = GameDayLastDecayed
-		WSN_LastUsedFakeGameHours[5] = GameDayLastDecayed
-		WSN_LastUsedFakeGameHours[6] = GameDayLastDecayed
-		StartDay = GameDaysPassed.GetValue()
-		Float StartingFavor = WSN_FavorBase_Global[WSN_DivineTypeID[WorshipID]].GetValue()
-		if StartingFavor < WSN_PreviousFavor[WorshipID] && WSN_DivineTypeID[WorshipID] != 1
-			StartingFavor = WSN_PreviousFavor[WorshipID]
-			WSN_PreviousFavor[WorshipID] = 0.000000
-		endIf
-		self.QueueFavorChange(StartingFavor, true, true)
-		WSN_Effect_Global_BlockDecay.SetValue(0 as Float)
-		WSN_Spell_Global_DivineType.value = WSN_DivineTypeID[WorshipID] as Float
-		WSN_Shrine.MoveTo(PlayerRef as objectreference, 0.000000, 0.000000, 0.000000, true)
-	endIf
-endFunction
-
-function ModFavor(Float akFavor)
-
-	Float Favor = WSN_Favor_Global.GetValue() + akFavor
-	self.SetFavor(Favor)
-endFunction
-
-function CastBlessing()
-
-	if WorshipID != -1
-		WSN_Blessing[WorshipID].Cast(PlayerRef as objectreference, none)
-	endIf
-endFunction
-
-function SetFavor(Float akFavor)
-
-	if WSN_DivineTypeID[WorshipID] == 2 && PlayerRef.HasMagicEffect(WSN_Item_ElvenLamp_Effect_Ench)
-		akFavor *= 1.10000
-	endIf
-	WSN_Favor_Global.SetValue(akFavor)
-	WSN_Favor_Global_Fractional.SetValue(akFavor * 0.100000)
-	WSN_Favor_Global_Fractional2.SetValue(akFavor * 0.300000)
-	WSN_Favor_Global_Fractional3.SetValue(akFavor * 0.200000)
-	WSN_Favor_Global_Fractional4.SetValue(akFavor * 5.00000)
-	WSN_Favor_Global_FractionalPig.SetValue(akFavor * 0.300000 / 100 as Float)
-	WSN_Favor_Global_FractionalHircine.SetValue(akFavor * 0.200000 / 100 as Float)
-	PlayerRef.ForceActorValue(WSN_AV, akFavor * 0.100000)
-endFunction
-
-; Skipped compiler generated GotoState
-
-String function GetDeityName()
-
-	if WorshipID == -1
-		return WSN_NoDeity
-	else
-		return WSN_DeityName[WorshipID]
-	endIf
-endFunction
-
-Bool function EndWorship()
-
-	Bool WasClavicus = false
-	if WorshipID == 24
-		WSN_Cure_Spell.Cast(PlayerRef as objectreference, none)
-	elseIf WorshipID == 34
-		PlayerRef.DispelSpell(WSN_Redguard_Ruptga_Boon1_Spell_ProcOnSelf)
-		WSN_Effect_Global_RuptgaCounter.SetValue(0 as Float)
-	elseIf WorshipID == 29
-		WasClavicus = true
-	elseIf WorshipID == 31
-		PlayerRef.DispelSpell(WSN_Daedra_Jyggalag_Boon1_Spell_ProcOnSelf)
-	elseIf WorshipID == 40
-		WSN_Peryite.ClearTotem()
-	elseIf WorshipID == 47
-		PlayerRef.DispelSpell(WSN_Misc_TheHist_Boon1_Spell_ProcOnSelf)
-	endIf
-	if WorshipID != -1
-		WSN_PreviousFavor[WorshipID] = WSN_Favor_Global.GetValue()
-		Int ExWorshipID = WorshipID
-		WorshipID = -1
-		PlayerRef.RemoveSpell(WSN_Boon1[ExWorshipID])
-		PlayerRef.RemoveSpell(WSN_Boon2[ExWorshipID])
-		PlayerRef.RemoveSpell(WSN_Tenet[ExWorshipID])
-		IsFavored = false
-		DynamicStat0 = 0.000000
-		DynamicStat1 = 0.000000
-		DynamicStat2 = 0.000000
-		FavorChangeQueued = 0.000000
-		self.SetFavor(0 as Float)
-		PlayerRef.DispelSpell(WSN_Prayer_Spell)
-		PlayerRef.RemoveSpell(WSN_Prayer_Spell)
-	endIf
-	if WasClavicus == true
-		WSN_Peryite.RemoveClavicus()
-	endIf
-	WSN_Spell_Global_DivineType.value = -1 as Float
-	return true
-endFunction
-
-function QueueFavorChange(Float akFavorChange, Bool abUpdateImmediately, Bool abShowStatusMessages)
-
-	if WorshipID != -1
-		FavorChangeQueued += akFavorChange
-		if abUpdateImmediately == true
-			self.ProcessFavorChanges(abShowStatusMessages)
 		endIf
 	endIf
 endFunction
@@ -512,7 +365,7 @@ function ProcessFavorChanges(Bool abShowStatusMessages)
 			self.QueueFavorChange(-(BaseIncrease - Increase), false, false)
 		endIf
 		if WorshipID == 33
-			NewFavor = utility.RandomFloat(-1.00000, 150.000)
+			NewFavor = utility.RandomFloat(1.00000, 150.000)
 		endIf
 		NewFavor += WSN_Misc_Global_FavorMod.GetValue()
 		self.SetFavor(NewFavor)
@@ -549,13 +402,47 @@ function ProcessFavorChanges(Bool abShowStatusMessages)
 	WSN_Effect_Global_BlockDecay.SetValue(0 as Float)
 endFunction
 
+function ModFavor(Float akFavor)
+
+	Float Favor = WSN_Favor_Global.GetValue() + akFavor
+	self.SetFavor(Favor)
+endFunction
+
+; Skipped compiler generated GetState
+
+function SetFavor(Float akFavor)
+
+	if WSN_DivineTypeID[WorshipID] == 2 && PlayerRef.HasMagicEffect(WSN_Item_ElvenLamp_Effect_Ench)
+		akFavor *= 1.10000
+	endIf
+	WSN_Favor_Global.SetValue(akFavor)
+	WSN_Favor_Global_Fractional.SetValue(akFavor * 0.100000)
+	WSN_Favor_Global_Fractional2.SetValue(akFavor * 0.300000)
+	WSN_Favor_Global_Fractional3.SetValue(akFavor * 0.200000)
+	WSN_Favor_Global_Fractional4.SetValue(akFavor * 5.00000)
+	WSN_Favor_Global_FractionalPig.SetValue(akFavor * 0.300000 / 100 as Float)
+	WSN_Favor_Global_FractionalHircine.SetValue(akFavor * 0.200000 / 100 as Float)
+	PlayerRef.ForceActorValue(WSN_AV, akFavor * 0.100000)
+endFunction
+
+; Skipped compiler generated GotoState
+
+String function GetDeityName()
+
+	if WorshipID == -1
+		return WSN_NoDeity
+	else
+		return WSN_DeityName[WorshipID]
+	endIf
+endFunction
+
 function Pray()
 
 	Float CurrentHPPct
 	if WorshipID == 11
 		CurrentHPPct = PlayerRef.GetActorValuePercentage("magicka")
 	endIf
-	Float FavorDelta = WSN_FavorMeditation_Global.GetValue() * utility.RandomFloat(0.500000, 1.50000)
+	Float FavorDelta = WSN_FavorMeditation_Global.GetValue() * utility.RandomFloat(0.800000, 1.20000)
 	Bool PrayerFailed = false
 	if WorshipID == 6
 		Float CurrentGameHour = GameHour.GetValue()
@@ -626,14 +513,13 @@ function Pray()
 		endIf
 	elseIf WorshipID == 24
 		WSN_Effect_Global_PeryiteBreathWeaponUsed.SetValue(0 as Float)
-	elseIf WorshipID == 24
 		if !PlayerRef.HasMagicEffect(WSN_Prayer_Effect_Sit_Diseased)
 			FavorDelta = 0 as Float
 			PrayerFailed = true
 			WSN_Prayer_Message_Peryite_Fail.Show(0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000)
 		endIf
 	elseIf WorshipID == 25
-		if !PlayerRef.HasMagicEffect(WSN_Prayer_Effect_Sit_IsInWilderness)
+		if !PlayerRef.HasMagicEffect(WSN_Prayer_Effect_Sit_IsInWilderness) && PlayerRef.GetCurrentLocation() != GlenmorilCovenLocation
 			FavorDelta = 0 as Float
 			PrayerFailed = true
 			WSN_Prayer_Message_Hircine_Fail.Show(0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000)
@@ -708,12 +594,131 @@ function Pray()
 	WSN_Shrine.MoveTo(PlayerRef as objectreference, 0.000000, 0.000000, 0.000000, true)
 endFunction
 
-function QueueDiminishingFavorChange(Float akFavorChange, Bool abUpdateImmediately, Int aiLastUsedArrayID, Bool abShowStatusMessages)
+function QueueFavorChange(Float akFavorChange, Bool abUpdateImmediately, Bool abShowStatusMessages)
 
-	Float TimeSinceLast = GameDaysPassed.GetValue() - WSN_LastUsedFakeGameHours[aiLastUsedArrayID]
-	if TimeSinceLast > 1.00000
-		TimeSinceLast = 1.00000
+	if WorshipID != -1
+		FavorChangeQueued += akFavorChange
+		if abUpdateImmediately == true
+			self.ProcessFavorChanges(abShowStatusMessages)
+		endIf
 	endIf
-	WSN_LastUsedFakeGameHours[aiLastUsedArrayID] = GameDaysPassed.GetValue()
-	self.QueueFavorChange(akFavorChange * TimeSinceLast, abUpdateImmediately, abShowStatusMessages)
+endFunction
+
+function StartWorship(Int ID)
+
+	if self.EndWorship()
+		WorshipID = ID
+		if WSN_DynamicStat0[WorshipID]
+			DynamicStat0 = game.QueryStat(WSN_DynamicStat0[WorshipID]) as Float
+		else
+			DynamicStat0 = 0 as Float
+		endIf
+		if WSN_DynamicStat1[WorshipID]
+			DynamicStat1 = game.QueryStat(WSN_DynamicStat1[WorshipID]) as Float
+		else
+			DynamicStat1 = 0 as Float
+		endIf
+		if WSN_DynamicStat2[WorshipID]
+			DynamicStat2 = game.QueryStat(WSN_DynamicStat2[WorshipID]) as Float
+		else
+			DynamicStat2 = 0 as Float
+		endIf
+		FavorChangeQueued = 0.000000
+		PlayerRef.AddSpell(WSN_Boon1[WorshipID], true)
+		PlayerRef.AddSpell(WSN_Tenet[WorshipID], false)
+		if WorshipID != 12
+			PlayerRef.AddSpell(WSN_Prayer_Spell, true)
+		endIf
+		if WorshipID == 11
+			WSN_Effect_Global_MehrunesExplodes.SetValue(0 as Float)
+			WSN_Effect_Global_MehrunesExplodesMax.SetValue(40 as Float)
+		elseIf WorshipID == 24
+			WSN_Peryite.InitDiseases()
+		elseIf WorshipID == 27
+			WSN_Effect_Global_DestinyActivated.SetValue(0 as Float)
+		elseIf WorshipID == 37
+			WSN_Effect_Global_RuptgaCounter.SetValue(100 as Float)
+		endIf
+		if WorshipID == 12
+			WSN_Help_Message_WorshipBasics_Vaermina.ShowAsHelpMessage("WorshipBasicsVaermina", 6.00000, 9999 as Float, 1)
+		elseIf WorshipID == 29
+			WSN_Help_Message_WorshipBasics_Clavicus.ShowAsHelpMessage("WorshipBasicsClavicus", 6.00000, 9999 as Float, 1)
+		elseIf WorshipID == 36 || WorshipID == 37 || WorshipID == 38 || WorshipID == 45
+			WSN_Help_Message_WorshipBasics_Yokudan.ShowAsHelpMessage("WorshipBasicsYokudan", 6.00000, 9999 as Float, 1)
+		else
+			WSN_Help_Message_WorshipBasics.ShowAsHelpMessage("WorshipBasics", 6.00000, 9999 as Float, 1)
+		endIf
+		GameDayLastDecayed = GameDaysPassed.GetValue()
+		WSN_LastUsedFakeGameHours[0] = GameDayLastDecayed
+		WSN_LastUsedFakeGameHours[1] = GameDayLastDecayed
+		WSN_LastUsedFakeGameHours[2] = GameDayLastDecayed
+		WSN_LastUsedFakeGameHours[3] = GameDayLastDecayed
+		WSN_LastUsedFakeGameHours[4] = GameDayLastDecayed
+		WSN_LastUsedFakeGameHours[5] = GameDayLastDecayed
+		WSN_LastUsedFakeGameHours[6] = GameDayLastDecayed
+		StartDay = GameDaysPassed.GetValue()
+		Float StartingFavor = WSN_FavorBase_Global[WSN_DivineTypeID[WorshipID]].GetValue()
+		if StartingFavor < WSN_PreviousFavor[WorshipID] && WSN_DivineTypeID[WorshipID] != 1
+			StartingFavor = WSN_PreviousFavor[WorshipID]
+			WSN_PreviousFavor[WorshipID] = 0.000000
+		endIf
+		self.QueueFavorChange(StartingFavor, true, true)
+		WSN_Effect_Global_BlockDecay.SetValue(0 as Float)
+		WSN_Spell_Global_DivineType.value = WSN_DivineTypeID[WorshipID] as Float
+		WSN_Shrine.MoveTo(PlayerRef as objectreference, 0.000000, 0.000000, 0.000000, true)
+	endIf
+endFunction
+
+function CastBlessing()
+
+	if WorshipID != -1
+		WSN_Blessing[WorshipID].Cast(PlayerRef as objectreference, none)
+	endIf
+endFunction
+
+Bool function EndWorship()
+
+	Bool WasClavicus = false
+	if WorshipID == 17
+		PlayerRef.DispelSpell(WSN_Divine_Kynareth_Boon2_Spell_ProcOnSelf)
+	elseIf WorshipID == 24
+		WSN_Cure_Spell.Cast(PlayerRef as objectreference, none)
+	elseIf WorshipID == 34
+		PlayerRef.DispelSpell(WSN_Redguard_Ruptga_Boon1_Spell_ProcOnSelf)
+		WSN_Effect_Global_RuptgaCounter.SetValue(0 as Float)
+	elseIf WorshipID == 29
+		WasClavicus = true
+	elseIf WorshipID == 31
+		PlayerRef.DispelSpell(WSN_Daedra_Jyggalag_Boon1_Spell_ProcOnSelf)
+	elseIf WorshipID == 40
+		WSN_Peryite.ClearTotem()
+	elseIf WorshipID == 47
+		PlayerRef.DispelSpell(WSN_Misc_TheHist_Boon1_Spell_ProcOnSelf)
+	endIf
+	if WorshipID != -1
+		WSN_PreviousFavor[WorshipID] = WSN_Favor_Global.GetValue() * 0.500000
+		Int ExWorshipID = WorshipID
+		WorshipID = -1
+		PlayerRef.RemoveSpell(WSN_Boon1[ExWorshipID])
+		PlayerRef.RemoveSpell(WSN_Boon2[ExWorshipID])
+		PlayerRef.RemoveSpell(WSN_Tenet[ExWorshipID])
+		IsFavored = false
+		DynamicStat0 = 0.000000
+		DynamicStat1 = 0.000000
+		DynamicStat2 = 0.000000
+		FavorChangeQueued = 0.000000
+		self.SetFavor(0 as Float)
+		PlayerRef.DispelSpell(WSN_Prayer_Spell)
+		PlayerRef.RemoveSpell(WSN_Prayer_Spell)
+	endIf
+	if WasClavicus == true
+		WSN_Peryite.RemoveClavicus()
+	endIf
+	WSN_Spell_Global_DivineType.value = -1 as Float
+	return true
+endFunction
+
+function OnInit()
+
+	self.RegisterForSingleUpdateGameTime(WSN_UpdateRate * utility.RandomFloat(0.500000, 1.50000))
 endFunction
