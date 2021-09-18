@@ -1,5 +1,6 @@
+===========================================
 SKYRIM IMMERSIVE CREATURES CACO PATCH NOTES
--------------------------------------------
+===========================================
 CACO_SkyrimImmersiveCreatures_Patch.esp = Patch for Skyrim Immersive Creatures by lifestorock
 	Patch by DrMonops
 	Updated to SE by Velgath
@@ -40,7 +41,8 @@ CACO_SkyrimImmersiveCreatures_Patch.esp = Patch for Skyrim Immersive Creatures b
 			      Adds CACO's Daedra Venin ingredient (requires Anatomist perk; works with CACO's extra ingredient option).
 	   - Zombie: Replaces SIC's Mort Flesh with CACO's Putrified Flesh (works with CACO's extra ingredient option).
 	   
-   Version
-		1.01 Adjusted Zombie Putrified Flesh Death Drop
-   
-		1.0 Initial Release for SE
+CHANGELOG
+Version 2.1 (2021/09/05) - Carried forward a handful of previously missed changes
+Version 2.0 (2021/09/03) - Updated for SIC Version 7
+Version 1.01 - Adjusted Zombie Putrified Flesh Death Drop
+Version 1.0 - Initial Release for SE
