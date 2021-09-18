@@ -6,3 +6,7 @@ With this patch installed, whenever you activate a cookpot or oven, any water yo
 Water containers can be refilled manually using newly added recipes.
 Appropriate CACO and CCOR crafting conditions for Sunhelm's recipes are also added.
 This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGELOG
+Version 1.2 (2021-09-07) - Carried forward _SHRefillKeyword on some waterskins, and consume sound on Waterskin, Salt.
+Version 1.1 (2021-05-02) - Carried forward a changed to the "Rested" Spell record made by SunHelm.
