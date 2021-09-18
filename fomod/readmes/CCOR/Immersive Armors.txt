@@ -2,8 +2,9 @@
 Immersive Armors - CCOR Patch Notes
 ====================================
 This file patches Immersive Armors by Hothtrooper44 (https://www.nexusmods.com/skyrimspecialedition/mods/3479) for improved consistency with changes made by Complete Crafting Overhaul Remastered.
-
 This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+You do NOT need to use "Hothtrooper44_ArmorCompilation_WACCF_Patch.esp" when using this CCOR patch.
 
 INSTALLATION
 Both of these mods are required in order to use this file.
@@ -23,3 +24,6 @@ CHANGES
 	- Primitive Nord
 	- Heavy Jorrvaskr Shield
 	- Spellbinder armor
+
+CHANGELOG
+Version 1.1 (2021-05-08) - Minor updates for consistency with Immersive Armors WACCF Patch (mainly to Survival keywords).
