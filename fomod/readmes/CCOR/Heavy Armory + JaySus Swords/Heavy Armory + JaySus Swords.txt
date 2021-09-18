@@ -12,10 +12,10 @@ CHANGES
 - Reatains the JaySus Swords Global toggle functionality added by CCOR.
 
 CHANGELOG
+V1.1 (2021-05-09) - Removed PrvtI_HeavyArmory_CCOR_Patch.esp as a master so the patch can also be used with the PrvtI_HeavyArmory_CCOR_AMB_Patch.esp patch.
 V1.0 - Initial release
 
 CREDITS
 Patch Author: Teabag86
 PrivateEye for Heavy Armory https://www.nexusmods.com/skyrimspecialedition/mods/6308
 JaySuS and zeknapain for JaySuS Swords SE https://www.nexusmods.com/skyrimspecialedition/mods/29415
-
