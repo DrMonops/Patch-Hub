@@ -22,6 +22,7 @@ CHANGES
 - Incorporated Calcinium and Galatite in some of the recipes.
 - Adjusted crafting ingredients slightly to better reflect CCOR's standard formula. 
 
-CHANGELOG
-V2.1 - Updated the value of silver weapons (+150 per silver ingot used in crafting)
-V3.0 - Corrected number of ingots used in several of the Steel and Skyforge Steel crafting and breakdown recipes.
+CHANGE LOG
+Version 3.1 (2021-07-10) - Reverted animation type for Ancient Nord & Falmer daggers (to address invisible weapon issue and so they can be wielded by draugr/falmer); attached waf_weaponswapscript to swap them for new "dagger" versions added by WACCF. Updated crafting recipes accordingly.
+Version 3.0 - Corrected number of ingots used in several of the Steel and Skyforge Steel crafting and breakdown recipes.
+Version 2.1 - Updated the value of silver weapons (+150 per silver ingot used in crafting)

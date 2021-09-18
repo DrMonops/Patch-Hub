@@ -12,4 +12,8 @@ Load Heavy Armory after Weapons Armor Clothing & Clutter Fixes.
 CHANGES
 - Removed PerkInvestorWhiterunGeneralList from MerchantCaravan chests (this carries forward a change from USSEP)
 - Adjusted weapon stats to bring them in-line with WACCF balancing and fixed some minor inconsistencies.
-- Adjusted leveled lists to match WACCF's weapon progression	
+- Adjusted leveled lists to match WACCF's weapon progression
+
+CHANGE LOG
+Version 3.2 (2021-07-10) - Removed CCOR as master (inadvertently added in 3.1).
+Version 3.1 (2021-07-10) - Reverted animation type for Ancient Nord & Falmer daggers (to address invisible weapon issue and so they can be wielded by draugr/falmer); attached waf_weaponswapscript to swap them for new "dagger" versions added by WACCF. Updated crafting recipes accordingly.

@@ -22,4 +22,7 @@ CHANGES
 	- Added Breakdown recipes for most items.
 	- Added "Learning" recipes for new Ancient Nord, Falmer, and Forsworn items.
 	- Incorporated Calcinium and Galatite in some of the recipes.
-	- Adjusted crafting ingredients slightly to better reflect CCOR's standard formula. 
+	- Adjusted crafting ingredients slightly to better reflect CCOR's standard formula.
+
+CHANGE LOG
+Version 3.1 (2021-07-10) - Reverted animation type for Ancient Nord & Falmer daggers (to address invisible weapon issue and so they can be wielded by draugr/falmer); attached waf_weaponswapscript to swap them for new "dagger" versions added by WACCF. Updated crafting recipes accordingly.
