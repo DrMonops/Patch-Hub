@@ -1,0 +1,19 @@
+===========================================
+Custom Craftable Pickaxes_WACCF Patch Notes
+===========================================
+Compatibility patch for Custom Craftable Pickaxes (https://www.nexusmods.com/skyrimspecialedition/mods/50979) by HELLJUMPERS21 and dylbill, and Weapons Armor Clothing and Clutter Fixes.
+This is a .esp / ESL flagged file and won't take up a spot in your load order. Load before any mods which edit NPCs.
+
+CHANGES
+-Adjusted value, weight, damage speed, reach and critical of new pickaxes for consistency with WACCF.
+-Added appropriate keywords to new pickaxes for consistency with WACCF.
+-Adjusted crafting ingredients slightly for some items for better consistency. 
+-Renamed Ancient Nordic Pickaxe to Ancient Nord Pickaxe.
+-Added Ancient Nord Honed Pickaxe. Hoarfrost and Glover Mallory's ancient Nordic pickaxe rebalanced as Ancient Nord Honed Pickaxes, with the latter renamed accordinhly.
+-Distributed new pickaxes to approximately a dozen NPCs (mostly orcs).
+-Replaced several dozen standard (iron) pickaxes with new pickaxes.
+-Added new leveled lists to help with distribution of new pickaxes.
+
+CHANGE LOG
+Version 1.1 (2021-07-13) - Added missing mineorescript.
+Version 1.0 (2021-07-12) - Initial Release
