@@ -1,0 +1,11 @@
+===================================
+Book Covers Skyrim_CACO Patch Notes
+===================================
+Compatibility patch for Book Covers Skyrim (https://www.nexusmods.com/skyrimspecialedition/mods/901) and Complete Alchemy and Cooking Overhaul.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+Patch by Sakatsuky.
+
+CHANGE LOG
+Version 1.0 (2021-05-15) - Initial Release
+
+
