@@ -1,0 +1,16 @@
+=========================================
+SPOA Silver Knight Armor CCOR Patch Notes
+=========================================
+This file modifies SPOA Silver Knight Armor by dopalacz (https://www.nexusmods.com/skyrimspecialedition/mods/13236) for compatibility and consistency with Complete Crafting Overhaul Remastered.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+You do NOT need to use SPOASilverKnightArmor_WACCF_Patch.esp when using this patch.
+
+CHANGES
+- Adjusted armor stats to bring them in-line with WACCF balancing.
+- Added crafting menu filters and category conditions from CCOR SE.
+- Added Breakdown recipes.
+- Adjusted crafting ingredients slightly to better reflect CCOR's standard formula. 
+
+CHANGELOG
+Version 1.0 (2021/08/08) - Initial release.

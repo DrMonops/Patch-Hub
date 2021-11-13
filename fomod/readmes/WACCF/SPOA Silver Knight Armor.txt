@@ -1,0 +1,11 @@
+==========================================
+SPOA Silver Knight Armor WACCF Patch Notes
+==========================================
+This file modifies SPOA Silver Knight Armor by dopalacz (https://www.nexusmods.com/skyrimspecialedition/mods/13236) for consistency with Weapons Armor Clothing and Clutter Fixes.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGES
+- Adjusted armor stats to bring them in-line with WACCF balancing.
+
+CHANGELOG
+Version 1.0 (2021/08/08) - Initial release.
