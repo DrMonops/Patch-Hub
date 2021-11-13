@@ -1,0 +1,11 @@
+======================================
+JS Purses and Septims_CACO Patch Notes
+======================================
+Compatibility patch for JS Purses and Septims - ESP version (https://www.nexusmods.com/skyrimspecialedition/mods/37306) and Complete Alchemy and Cooking Overhaul.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+Patch by thescarecrow86.
+
+CHANGE LOG
+Version 1.0 (2021-05-16) - Initial Release
+
+
