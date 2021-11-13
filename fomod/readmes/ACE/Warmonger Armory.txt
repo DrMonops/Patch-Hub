@@ -1,0 +1,12 @@
+==================================
+Warmonger Armory - ACE Patch Notes
+==================================
+This file modifies Warmonger Armory - Unofficial Fixed SSE Port by Batmanna and Duckzilla (https://www.nexusmods.com/skyrimspecialedition/mods/17809) for improved consistency with Armor and Clothing Extension.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Load this patch after WarmongerArmory_WACCF_Patch.esp or WarmongerArmory_CCOR_Patch.esp.
+
+CHANGE LOG
+Version 1.0 (2021/06/20) - Initial release.

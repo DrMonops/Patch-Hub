@@ -1,0 +1,38 @@
+===============================================================
+Warmonger Armory Tweaks - Loremonger Edition - CCOR Patch Notes
+===============================================================
+This file modifies Warmonger Armory Tweaks - Loremonger Edition Port by deletepch, Batmanna, and Duckzilla (https://www.nexusmods.com/skyrimspecialedition/mods/35899) for improved consistency with Complete Crafting Overhaul Remastered.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Load Warmonger Armory after Complete Crafting Overhaul Remastered.
+
+You do NOT need to use WarmongerArmoryLoremonger_WACCF_Patch.esp when using this CCOR patch. Please note that Warmonger Armory Tweaks - Loremonger Edition patches are not required for either the aMidianBorn Content Addon (AMB) or Armor and Clothing Extension (ACE).
+
+Do NOT use with the patch for the Warmonger Armory - Unofficial Fixed SSE Port (WarmongerArmory_CCOR_Patch.esp). 
+
+CHANGES
+- Includes all changes from the Warmonger Armory Tweaks - Loremonger Edition - WACCF Patch:
+	-Adjusted the nameing of various items for consistency with WACCF.
+	-Carried over Dragon Priest stats from WACCF to the belt versions.
+	-Fixed tempering recipe for Wandering Knight Shield.
+	-Adjusted critical values of Alik'r Sabre and Frostfang.
+	-Added SPIKEWeapFancySwordBlack keyword to Dunmer Ebony Sword and Soul Ripper Sword.
+	-Combined changes for a small number of leveled lists and outfits.
+	-Added inventory conditions (non-toggleable) to the Dragon Priest mask recipes, so they don't show up in the crafting menu prior to the player acquiring them.
+- Added crafting menu filters and category conditions from CCOR SE.
+- Added requirement to have visited Solstheim in order to craft Netch Leather armor.
+- Added Breakdown recipes for most items.
+- Incorporated Galatite into appropriate recipes.
+- Created Fur Plate variations for the Ancient Nord Hero Cuirass recipes.
+- Minor tweaks to a few recipe ingredients to maintain consistency with CCOR formula.
+- Added two more versions of the belt-fastened Miraak Mask to cover the other two leveled ranks of the mask. 
+- Adjusted belt-fastened Dragon Priest mask recipes so there is only a single crafting recipe per mask. 
+   -When the player first equips the item, they can then choose how they want to wear it.
+   -Once selected, the mask will remember the selected equipment slot.
+   -Dropping a mask on the ground will reset it back to the generic version and allow you to change its position.
+   -Regardless of whether the player has a slotted or generic version of a mask, there will always be a recipe available to revert it back to its headgear form.
+
+CHANGE LOG
+Version 1.0 (2021/08/30) - Initial release.

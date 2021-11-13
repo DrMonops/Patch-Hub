@@ -1,0 +1,19 @@
+====================================
+Warmonger Armory - WACCF Patch Notes
+====================================
+This file modifies Warmonger Armory - Unofficial Fixed SSE Port by Batmanna and Duckzilla (https://www.nexusmods.com/skyrimspecialedition/mods/17809) for improved consistency with Weapons Armor Clothing and Clutter Fixes.
+Both of these mods are required in order to use this file. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGES
+- Adjusted the nameing of various items for consistency with WACCF.
+- Adjusted some models used by various robes for consistency with WACCF.
+- Carried over Dragon Priest stats from WACCF to the belt versions.
+- Fixed tempering recipe for Wandering Knight Shield.
+- Adjusted critical values of Alik'r Sabre and Frostfang.
+- Added SPIKEWeapFancySwordBlack keyword to Dunmer Ebony Sword and Soul Ripper Sword.
+- Combined changes for a small number of leveled lists and outfits.
+- Fixed DLC2TalvasOutfit, which previously assigned him three robes and not gloves or footwear.
+- Added inventory conditions (non-toggleable) to the Dragon Priest mask recipes, so they don't show up in the crafting menu prior to the player acquiring them.
+
+CHANGE LOG
+Version 1.0 (2021/06/20) - Initial release.
