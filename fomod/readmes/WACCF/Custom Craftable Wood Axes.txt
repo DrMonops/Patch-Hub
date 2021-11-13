@@ -1,0 +1,17 @@
+============================================
+Custom Craftable Wood Axes_WACCF Patch Notes
+============================================
+Compatibility patch for Custom Craftable Wood Axes (https://www.nexusmods.com/skyrimspecialedition/mods/51394) by HELLJUMPERS21 and dylbill, and Weapons Armor Clothing and Clutter Fixes.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGES
+-Adjusted value, weight, damage speed, reach and critical of new wood axes for consistency with WACCF.
+-Added appropriate keywords to new wood axes for consistency with WACCF.
+-Adjusted crafting ingredients slightly for some items for better consistency. 
+-Replaced several dozen standard (iron) wood axes with new wood axes.
+-Added new leveled lists to help with distribution of new wood axes.
+
+CHANGE LOG
+Version 1.0 (2021-07-12) - Initial Release
+
+
