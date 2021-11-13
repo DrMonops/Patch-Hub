@@ -1,0 +1,8 @@
+===================================
+Know Your Enemy - WACCF Patch Notes
+===================================
+Compatibility patch for Know Your Enemy by jhm4 (https://www.nexusmods.com/skyrimspecialedition/mods/13807) and Weapons Armor Clothing and Clutter Fixes.
+Patch by Skeleton Jack & bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 2.1 - ESL-flagged; addded missing vanilla masters to plugin (i.e. Hearthfire).
