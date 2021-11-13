@@ -1,0 +1,19 @@
+==============================
+New Legion - WACCF Patch Notes
+==============================
+Compatibility and consistency patch for New Legion by NordwarUA (https://www.nexusmods.com/skyrimspecialedition/mods/30468) and Weapon Armor Clothing and Clutter Fixes.
+Patch by pytheian. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGES
+-Applied all keywords (including Survival/Warmth and SPIKE keywords for use with Guard Dialogue Overhaul) on all armors, cloaks, weapons and the Imperial arrows.
+-Balanced the base light & heavy variants to WACCF values.
+-Balanced Chainmail medium between the light & heavy values.
+-Made the higher tier Officer/Penitus Oculatus/Legate/General/Emperor gear stronger than the basic varieties, in line with both New Legion and WACCF.
+-Balanced the new cloak gold/weight values to the CCOR patched version of the mod "Cloaks".
+-Adjusted on leveled list to adjust the relative frequency of Legate helmets vs. Officer variety (and left very easy instructions on how to reverse this in the linked Google Sheet)
+
+-For a full breakdown and analysis of the changes in spreadsheet form, please visit https://docs.google.com/spreadsheets/d/e/2PACX-1vTD8VQjsWC2UClL5wRMpUJIuRYMI6_GgFZDG1tkRL7ZTKqa5dgy-sTNYT0pyhIJtBAKSCf89F80hdWF/pubhtml
+
+CHANGE LOG
+Version 1.1 - First version on "kryptopyr's Patch Hub"
+Version 1.0 - Initial release (here: https://www.nexusmods.com/skyrimspecialedition/mods/43797)
