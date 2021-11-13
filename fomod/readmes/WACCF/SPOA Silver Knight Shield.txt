@@ -1,0 +1,13 @@
+===========================================
+SPOA Silver Knight Shield WACCF Patch Notes
+===========================================
+This file modifies SPOA Silver Knight Shield by dopalacz (https://www.nexusmods.com/skyrimspecialedition/mods/13353) for consistency with Weapons Armor Clothing and Clutter Fixes.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+You do NOT need to use SPOASilverShield_WACCF_Patch.esp when using this patch.
+
+CHANGES
+- Adjusted shield stats to bring them in-line with WACCF balancing.
+
+CHANGELOG
+Version 1.0 (2021/08/30) - Initial release.
