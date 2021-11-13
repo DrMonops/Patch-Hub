@@ -1,0 +1,11 @@
+==================================================
+Skyrim Immersive Creatures - WACCF_ICF Patch Notes
+==================================================
+Consistency patch for Skyrim Immersive Creatures by lifestorock (https://www.nexusmods.com/skyrimspecialedition/mods/12680), Improved Closefaced Helmets (https://www.nexusmods.com/skyrimspecialedition/mods/824) by navida1, and Weapon Armor Clothing and Clutter Fixes.
+Patch by bobbyclue, lifestorock, & Kelsenellenelvian. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+DO NOT use with the SIC Improved Closefaced Helmets patch (SIC - ICH Patch.esp) available from lifestorock's SIC SE - Add-Ons and Patches (https://www.nexusmods.com/skyrimspecialedition/mods/54930), as the changes from that patch have been included in this one.
+
+CHANGE LOG
+Version v2.4 (2021-09-18) - Removed changes to Draman & Glass Golem loot drops. Reverted some object bound changes to minimize flagged conflicts.
+Version v1.0 (2021-09-05) - Initial release.

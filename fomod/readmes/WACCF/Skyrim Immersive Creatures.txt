@@ -1,0 +1,11 @@
+==============================================
+Skyrim Immersive Creatures - WACCF Patch Notes
+==============================================
+Consistency patch for Skyrim Immersive Creatures by lifestorock (https://www.nexusmods.com/skyrimspecialedition/mods/12680) and Weapon Armor Clothing and Clutter Fixes.
+Patch by bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version v2.4 (2021-09-18) - Removed changes to Draman & Glass Golem loot drops. Reverted some object bound changes to minimize flagged conflicts.
+Version v2.3 (2021-09-05) - Carried forward a handful of changes from SIC v7.
+Version v2.2 (2021-08-30) - Reverted Animation Type changes to weapons.
+Version v2.1 (2021-05-08) - Renamed several daggers "of Cold" to "of Chills" for consistency with USSEP and the next WACCF update.

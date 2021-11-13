@@ -1,0 +1,10 @@
+============================================
+Skyrim Immersive Creatures - ACE Patch Notes
+============================================
+Consistency patch for Skyrim Immersive Creatures by lifestorock (https://www.nexusmods.com/skyrimspecialedition/mods/12680) and Armor and Clothing Extension.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+If the aMidianBorn Content Addon is also being used, load this patch before "SIC AMB Patch.esp".
+
+CHANGE LOG
+Version v1.0 (2021-09-05) - Initial release.
