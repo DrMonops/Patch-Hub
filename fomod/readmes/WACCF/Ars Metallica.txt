@@ -1,0 +1,8 @@
+=================================
+Ars Metallica - WACCF Patch Notes
+=================================
+Compatibility & consistency patch for Ars Metallica by Arthmoor (https://www.nexusmods.com/skyrimspecialedition/mods/31612) and Weapons Armor Clothing and Clutter Fixes.
+Patch by lilebonymace and bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 1.0 (2021-05-10) - Initial release.
