@@ -1,0 +1,10 @@
+====================================
+Cloaks of Skyrim - WACCF Patch Notes
+====================================
+A compatibility patch for Cloaks of Skyrim by Nikinoodles and Nazenn (https://www.nexusmods.com/skyrimspecialedition/mods/6369) and Weapons Armor Clothing and Clutter Fixes.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+Not required (do not use) with Cloaks of Skyrim_CCOR Patch (Cloak_CCOR_Patch.esp).
+
+CHANGE LOG
+Version 1.0 (2021/09/12) - Initial release.
