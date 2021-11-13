@@ -1,0 +1,10 @@
+======================================================
+OBIS - Organized Bandits In Skyrim - WACCF Patch Notes
+======================================================
+Compatibility and consistency patch for Organized Bandits In Skyrim by Indigoblade and the OBIS Team (https://www.nexusmods.com/skyrimspecialedition/mods/4145) and Weapons Armor Clothing and Clutter Fixes.
+Patch by bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 2.1 (2021-05-08) - Removed Bonebreaker and Skullcrusher perks from several NPCs (already removed by USSEP, OBIS, and WACCF).
+
+
