@@ -1,0 +1,12 @@
+==================================================
+Sacrosanct - Vampires of Skyrim - CACO Patch Notes
+==================================================
+Compatibility and consistency patch for Sacrosanct - Vampires of Skyrim by EnaiSiaion (https://www.nexusmods.com/skyrimspecialedition/mods/3928) and Complete Alchemy and Cooking Overhaul.
+Patch by Skeleton Jack and bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 2.1
+-ESL-flaggged
+-Added missing vanilla masters to plugin (i.e. Hearthfire)
+-Integrated the CACO Sancrosanct Court Chef Fix patch
+-Carried over CACO conditions to the Poison Talons magic effect
