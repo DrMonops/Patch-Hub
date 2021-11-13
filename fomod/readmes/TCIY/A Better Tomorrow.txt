@@ -1,0 +1,10 @@
+====================================
+A Better Tomorrow - TCIY Patch Notes
+====================================
+This file modifies A Better Tomorrow - Replace Maven as Jarl by void30 (https://www.nexusmods.com/skyrimspecialedition/mods/53248) for compatibility with The Choice Is Yours.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGELOG
+Version 1.0 (2021/08/09) - Updated for A Better Tomorrow version 1.5.
+Version 1.0 (2021/08/08) - Initial release.
