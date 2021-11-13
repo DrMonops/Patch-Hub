@@ -1,0 +1,11 @@
+=============================================================
+Skyrim Revamped - Complete Enemy Overhaul - WACCF Patch Notes
+=============================================================
+Compatibility and consistency patch for Skyrim Revamped - Complete Enemy Overhaul by Nightman0 (https://www.nexusmods.com/skyrimspecialedition/mods/14598) and Weapons Armor Clothing and Clutter Fixes.
+It is highly recommended to use SRCEO - Bearded Wimmen Outlawes Be Gone (https://www.nexusmods.com/skyrimspecialedition/mods/28288) alongside this patch.
+Patch by bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 2.1 (2021-05-08) - Updated script attached to Mythic Dawn Robes from CCF_HoodedRobeSwapScript to CCF_HoodedRobeSwapScript2 (so it properly returns a hood).
+
+

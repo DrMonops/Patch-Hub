@@ -1,0 +1,14 @@
+===========================================================
+Skyrim Revamped - Complete Enemy Overhaul - ACE Patch Notes
+===========================================================
+Compatibility and consistency patch for Skyrim Revamped - Complete Enemy Overhaul by Nightman0 (https://www.nexusmods.com/skyrimspecialedition/mods/14598) and WACCF Armor and Clothing Extension.
+It is highly recommended to use SRCEO - Bearded Wimmen Outlawes Be Gone (https://www.nexusmods.com/skyrimspecialedition/mods/28288) alongside this patch.
+Patch by Skeleton Jack and bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 2.4 - First version available on kryptopyr's Patch Hub.
+Version 2.3.3 - This patch no longer functions as a replacer for the MLU WACCF ACE Patch and instead functions as a completely seperate conflict resolution patch for ACE and SRCEO.
+Version 2.1.2 - Adjusted MLU Sanguine Boots to fall in line with the WACCF standard.
+Version 2.0.0 - ESL-flagged; Added missing vanilla masters (i.e. Hearthfire) and masters of already included masters (i.e. USSEP); Forwarded removal of duplicate Iron Helmets from the level lists from Armor and Clothing Extension.
+
+
