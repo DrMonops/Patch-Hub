@@ -1,0 +1,25 @@
+==============================
+Scout Armor - CCOR Patch Notes
+==============================
+This file modifies Scout Armor SE by doodaboom, ported by DirtyWeaselMedia (https://www.nexusmods.com/skyrimspecialedition/mods/18910), for improved consistency with Complete Crafting Overhaul Remastered.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+INSTALLATION
+Both of these mods are required in order to use this file.
+Load Scout Armor after Complete Crafting Overhaul Remastered.
+
+You do NOT need to use ScoutArmor_WACCF_Patch.esp when using this CCOR patch.
+
+CHANGES
+- Includes all changes from the Scout Armor - WACCF Patch:
+	-Rebalanced all items so armor is closer to Scaled and weapons are closer to Nordic in power.
+	-Modified recipes and conditions to reflect the balance changes.
+	-Copied over the gravity and speed stats for the Scout Arrow projectile record.
+	-Added alternate recipes for Hooded Helmets (requires both a Scout Helmet and Scout Hood in inventory for recipe to show).
+- Added crafting menu filters and category conditions from CCOR SE.
+- Added Breakdown recipes for most items.
+- Incorporated Galatite into appropriate recipes.
+- Minor tweaks to a few recipe ingredients to maintain consistency with CCOR formula.
+
+CHANGE LOG
+Version 1.0 (2021/06/20) - Initial release.
