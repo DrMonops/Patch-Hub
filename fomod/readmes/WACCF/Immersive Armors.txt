@@ -1,0 +1,10 @@
+====================================
+Immersive Armors - WACCF Patch Notes
+====================================
+Compatibility and consistency patch for Immersive Armors by hothtrooper44 (https://www.nexusmods.com/skyrimspecialedition/mods/3479) and Weapons Armor Clothing and Clutter Fixes.
+Patch by bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 1.0 (2021-05-10) - Initial release.
+
+
