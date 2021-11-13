@@ -1,0 +1,17 @@
+============================================================
+SkyTEST - Realistic Animals and Predators - CACO Patch Notes
+============================================================
+Consistency patch for SkyTEST - Realistic Animals and Predators by etayorius (https://www.nexusmods.com/skyrimspecialedition/mods/1104) and Complete Alchemy and Cooking Overhaul.
+Patch by Skeleton Jack & bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version v2.1
+- Adjusted added food items to CACO's standard.
+- Made equivalent CACO items use the new models included in SkyTEST.
+- Adjusted recipes to CACO's standard.
+- Added recipes using SkyTEST items to reflect the recipes already added by CACO.
+- Added SkyTEST items to CACO form ID lists.
+- Removed level list edits that were simply merging changes between the two mods as oppsoed to actual consistency fixes.
+- Replaced SkyTEST loot with its CACO equivalent where possible.
+- Made SkyTEST level list edits fall in line with CACO's standard.
+- Replaced death items of certain NPCs to better fit CACO's standard.
