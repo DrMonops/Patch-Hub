@@ -1,0 +1,12 @@
+==========================================================
+Guards Armor Replacer - Minimal Version - CCOR Patch Notes
+==========================================================
+Compatibility and consistency patch for Guards Armor Replacer - Minimal Version by NordwarUA (https://www.nexusmods.com/skyrimspecialedition/mods/22671) and Complete Crafting Overhaul Remastered.
+Patch by pytheian & bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+You do NOT need to use GuardsArmorReplacer-Minimal_WACCF_Patch.esp when using this CCOR patch.
+
+***DO NOT USE WITH THE FULL VERSION OF GUARDS ARMOR REPLACER***
+
+CHANGE LOG
+Version 1.1 - Initial release

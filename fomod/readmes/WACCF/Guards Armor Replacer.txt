@@ -1,0 +1,22 @@
+=========================================
+Guards Armor Replacer - WACCF Patch Notes
+=========================================
+Compatibility and consistency patch for Guards Armor Replacer by NordwarUA (https://www.nexusmods.com/skyrimspecialedition/mods/22671) and Weapon Armor Clothing and Clutter Fixes.
+Patch by pytheian & bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGES
+-Rebalanced stats for consistency with WACCF by normalizing most heavy armor stats to Steel or Steel with Pauldrons, with a bit of differentiation to allow for the differences in the plugin.
+-To prevent enormous spikes in value/weight, averaged all light armor stats with Steel & Leather (including weight), so that relatively high armor values are somewhat offset by higher weights than is typical for light amor for most items. End result is reasonable and consistent with the visual appearance of the light variants. 
+-Markarth gear is a special case where values are an average of Dwarven with Steel (for heavy) or Leather (for light).
+-Light Rebel pauldrons made comparable to normal Imperial pauldron, but allowed for the variants to be buffed to the level of the guards.
+-Where GAR assigns low gold value/low level materials to an item (some boots, gauntlets), stats were equalized to Imperial, Leather, Iron, etc.
+-WAF_FirstPerks (allows Fists of Steel to apply to light gauntlets) applied where appropriate
+-SurvivialArmorWarm was applied to all armors originating from the particularly cold regions (Windhlem/Eastmarch, Dawnstar/Pale, Winterhold) as well as any Steel or Iron heavy armor. 
+-Added WAF_MaterialFaction, removed the base material keywords, in line with WACCF edits to vanilla.
+-Balanced all weapons to their closest fit in the normal Iron/Steel Axe & Sword progression, while making Guard & Stormcloak Swords equivalent to Imperial for balance.
+
+-For a full breakdown and analysis of the changes in spreadsheet form, please visit https://docs.google.com/spreadsheets/d/e/2PACX-1vSXfeqzK9eGGISzeqKqHrta10Zx7z0L4BtpPpL8YYTlQZZwfIKyFQ7B9jSg1pBNjqmV7e0ewS8ue8gs/pubhtml
+
+CHANGE LOG
+Version 1.1 - Minor updates (consistency, typos); first version on "kryptopyr's Patch Hub"
+Version 1.0 - Initial release (here: https://www.nexusmods.com/skyrimspecialedition/mods/43701)

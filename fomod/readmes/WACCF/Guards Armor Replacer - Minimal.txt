@@ -1,0 +1,10 @@
+===========================================================
+Guards Armor Replacer - Minimal Version - WACCF Patch Notes
+===========================================================
+Compatibility and consistency patch for Guards Armor Replacer - Minimal Version by NordwarUA (https://www.nexusmods.com/skyrimspecialedition/mods/22671) and Weapon Armor Clothing and Clutter Fixes.
+Patch by pytheian & bobbyclue. This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+***DO NOT USE WITH THE FULL VERSION OF GUARDS ARMOR REPLACER***
+
+CHANGE LOG
+Version 1.1 - Initial release
