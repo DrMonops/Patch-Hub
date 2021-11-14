@@ -55,3 +55,6 @@ Once in game, you can use the following console commands to adjust the percent c
 	set DIST_CIACloaksThalmorBossChance to 25
 	set DIST_CIACloaksThalmorChance to 90
 	set DIST_CIACloaksVampireChance to 65
+
+CHANGELOG
+Version 1.1 (2021/10/06) - Removed redundant cloak entries from ArmorStormcloakOutfitNoHelmet [OTFT:000AD245] & MQ304StormcloakOutfit [OTFT:0010FE82].
