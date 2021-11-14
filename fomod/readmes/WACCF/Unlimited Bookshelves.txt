@@ -1,0 +1,11 @@
+=========================================
+Unlimited Bookshelves - WACCF Patch Notes
+=========================================
+A patch for Unlimited Bookshelves v2.0 by da5id2701 & Nazenn (https://www.nexusmods.com/skyrimspecialedition/mods/2885) for compatibility with Weapons Armor Clothing and Clutter Fixes.
+Patch by sattyre.
+
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGE LOG
+Version 1.1 (2021-11-06) - Changed Werewolf Pelt value from 300 to 50. Minor changes to distribution of armor keywords for increased consistency with WACCF.
+
