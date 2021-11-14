@@ -1,0 +1,23 @@
+===============================
+Fishing (CC) - CACO Patch Notes
+===============================
+This file modifies the Fishing creation from the Creation Club for consistency with Complete Alchemy and Cooking Overhaul.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+Credit to athos252 for his AddFish (For CACO) mod, which has been modified and included in this patch.
+
+CHANGES
+-Updated Fishing's foods for consistency with CACO (primarily keywords and effects).
+-Updated Fishing's ingredients for consistency with CACO.
+-Updated Fishing's food recipes for consistency with CACO.
+-Added CACO portioning for Slaughter Fish and Aged Flin.
+-Added new recipes for cooking Fishing's fish using Campfire's campfires (if Campfire is installed).
+-Added CACO's new fish to Fishing system.
+-Added CACO's new fish to Plaques and Tanks.
+-Applied Wiseman's Flora Fixes to new Flora records.
+-Replaced most instances of Fishing's salmon record with CACO's.
+-Replaced CACO's harvested Salmon model with Fishing's.
+-Adjusted Mubcrab death item lists.
+-Added combined support for the new fish added by CACO & Fishing to Windstad Manor's fish hatchery. Credit to athos252 for most of the work (https://www.nexusmods.com/skyrimspecialedition/mods/37249).
+
+CHANGELOG
+Version 1.0 (2021/11/14) - Initial release.

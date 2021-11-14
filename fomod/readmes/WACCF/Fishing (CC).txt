@@ -1,0 +1,14 @@
+================================
+Fishing (CC) - WACCF Patch Notes
+================================
+This file modifies the Fishing creation from the Creation Club for consistency with Weapons Armor Clothing and Clutter Fixes.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+CHANGES
+-Adjusted armor and weapon stats (including value, weight, damage, and critical) for consistency with WACCF.
+-Added appropriate keywords to new armors and weapons for consistency with WACCF.
+-Added new Draugr weapons to appropriate leveled lists.
+
+CHANGELOG
+Version 1.1 (2021/11/14) - Disabled scripted distribution of Ancient Nord weapons by the creation.
+Version 1.0 (2021/11/11) - Initial release.

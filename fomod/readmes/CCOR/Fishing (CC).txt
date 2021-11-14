@@ -1,0 +1,22 @@
+===============================
+Fishing (CC) - CCOR Patch Notes
+===============================
+This file modifies the Fishing creation from the Creation Club for consistency with Weapons Armor Clothing and Clutter Fixes and Complete Crafting Overhaul Remastered.
+This is a .esp / ESL flagged file and won't take up a spot in your load order.
+
+You do NOT need to use CC-Fishing_WACCF_Patch.esp when using this CCOR patch.
+
+CHANGES
+-Added crafting menu filters and category conditions from CCOR SE.
+-Adjusted armor and weapon stats (including value, weight, damage, and critical) for consistency with WACCF.
+-Added appropriate keywords to new armors and weapons for consistency with WACCF.
+-Added new Draugr weapons to appropriate leveled lists.
+-Adjusted crafting ingredients slightly to better reflect CCOR's standard formula. 
+-Added breakdown recipes for most items.
+-Added "Learning" recipes for new Ancient Nord weapons.
+-Renamed Honed Ancient Nord weapons to Ancient Nord Honed weapons.
+-Added crafting recipes for Ancient Nord and Ancient Nord Honed weapons.
+
+CHANGELOG
+Version 1.1 (2021/11/14) - Disabled scripted distribution of Ancient Nord weapons by the creation.
+Version 1.0 (2021/11/11) - Initial release.
